@@ -1,0 +1,652 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-09-25T00:04:11.680+09:00
+  initializedAtString: 2020-09-24T22:54:39.524+09:00
+  entries:
+  - path: Assets\Cube (0).prefab
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (0).prefab"
+    projectPath: Assets\Cube (0).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (0).prefab.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (0).prefab.meta"
+    projectPath: Assets\Cube (0).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (1).prefab
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (1).prefab"
+    projectPath: Assets\Cube (1).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (1).prefab.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (1).prefab.meta"
+    projectPath: Assets\Cube (1).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (2).prefab
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (2).prefab"
+    projectPath: Assets\Cube (2).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (2).prefab.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (2).prefab.meta"
+    projectPath: Assets\Cube (2).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (3).prefab
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (3).prefab"
+    projectPath: Assets\Cube (3).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Cube (3).prefab.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
+      (3).prefab.meta"
+    projectPath: Assets\Cube (3).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Low_Swordman.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Low_Swordman.meta"
+    projectPath: Assets\Low_Swordman.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Low_Swordman\1.Sprite.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Low_Swordman\\1.Sprite.meta"
+    projectPath: Assets\Low_Swordman\1.Sprite.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Low_Swordman\1.Sprite\Complete.png
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Low_Swordman\\1.Sprite\\Complete.png"
+    projectPath: Assets\Low_Swordman\1.Sprite\Complete.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Low_Swordman\1.Sprite\Complete.png.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Low_Swordman\\1.Sprite\\Complete.png.meta"
+    projectPath: Assets\Low_Swordman\1.Sprite\Complete.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material.meta"
+    projectPath: Assets\Material.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 1.mat
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 1.mat"
+    projectPath: Assets\Material\New Material 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 1.mat.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 1.mat.meta"
+    projectPath: Assets\Material\New Material 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 2.mat
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 2.mat"
+    projectPath: Assets\Material\New Material 2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 2.mat.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 2.mat.meta"
+    projectPath: Assets\Material\New Material 2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 3.mat
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 3.mat"
+    projectPath: Assets\Material\New Material 3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material 3.mat.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material 3.mat.meta"
+    projectPath: Assets\Material\New Material 3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material.mat
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material.mat"
+    projectPath: Assets\Material\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material.mat.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Material\\New
+      Material.mat.meta"
+    projectPath: Assets\Material\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins.meta"
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub.meta"
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor.meta"
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png"
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\credits.txt"
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\credits.txt.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\eula.txt"
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\eula.txt.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs"
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf"
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs"
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x64.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x86.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scenes.meta"
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scenes\\SampleScene.unity"
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scenes\\SampleScene.unity.meta"
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts.meta"
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraForPlayer.cs
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\CameraForPlayer.cs"
+    projectPath: Assets\Scripts\CameraForPlayer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraForPlayer.cs.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\CameraForPlayer.cs.meta"
+    projectPath: Assets\Scripts\CameraForPlayer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Jumping.cs
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\Jumping.cs"
+    projectPath: Assets\Scripts\Jumping.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Jumping.cs.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\Jumping.cs.meta"
+    projectPath: Assets\Scripts\Jumping.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\randomPlatform.cs
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\randomPlatform.cs"
+    projectPath: Assets\Scripts\randomPlatform.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\randomPlatform.cs.meta
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\randomPlatform.cs.meta"
+    projectPath: Assets\Scripts\randomPlatform.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Packages\\manifest.json"
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\packages-lock.json
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Packages\\packages-lock.json"
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\AudioManager.asset"
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\ClusterInputManager.asset"
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\DynamicsManager.asset"
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\EditorBuildSettings.asset"
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\EditorSettings.asset"
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\GraphicsSettings.asset"
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\InputManager.asset"
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\NavMeshAreas.asset"
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\NetworkManager.asset"
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\Physics2DSettings.asset"
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\PresetManager.asset"
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\ProjectSettings.asset"
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\ProjectVersion.txt"
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\QualitySettings.asset"
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TagManager.asset"
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TimeManager.asset"
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\UnityConnectSettings.asset"
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\VFXManager.asset"
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\XRSettings.asset"
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

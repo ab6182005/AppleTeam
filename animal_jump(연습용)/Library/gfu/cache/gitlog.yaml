@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-09-25T00:04:55.705+09:00
+  initializedAtString: 2020-09-24T22:54:47.114+09:00
+  log:
+  - commitID: 5c6e8e8555dc37aeac68eff81fe2ee29c6599079
+    mergeA: 
+    mergeB: 
+    authorName: YoonJeeHye
+    authorEmail: jeehyeeeeeee@gmail.com
+    commitEmail: jeehyeeeeeee@gmail.com
+    commitName: YoonJeeHye
+    summary: Initial commit
+    description: 
+    timeString: 2020-09-08T18:38:13.000+09:00
+    commitTimeString: 2020-09-08T18:38:13.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: "C:\\Users\\LG\\Desktop\\\uC720\uB2C8\uD2F0_\uD504\uB85C\uC81D\uD2B8\uB4E4\\animal_flip\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\.gitignore"
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
