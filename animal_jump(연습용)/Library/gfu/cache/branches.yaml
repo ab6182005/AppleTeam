@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-24T22:56:43.476+09:00
-  initializedAtString: 2020-09-24T22:54:44.754+09:00
+  lastUpdatedAtString: 2020-09-25T13:11:54.446+09:00
+  initializedAtString: 2020-09-25T13:09:55.481+09:00
   localBranches:
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -35,17 +37,23 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/ab6182005/AppleTeam
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ab6182005/AppleTeam
+        trackingBranch: 
       - name: master
         remote:
           name: origin

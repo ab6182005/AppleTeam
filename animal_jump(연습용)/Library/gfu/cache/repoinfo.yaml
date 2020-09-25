@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-24T22:54:37.421+09:00
-  initializedAtString: 2020-09-24T22:54:37.421+09:00
+  lastUpdatedAtString: 2020-09-25T13:11:54.456+09:00
+  initializedAtString: 2020-09-25T13:08:24.378+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/ab6182005/AppleTeam
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/ab6182005/AppleTeam
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/ab6182005/AppleTeam
