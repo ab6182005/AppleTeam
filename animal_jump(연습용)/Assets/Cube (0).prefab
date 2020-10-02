@@ -11,11 +11,16 @@ GameObject:
   - component: {fileID: 1230302565691021313}
   - component: {fileID: 4356852610960981086}
   - component: {fileID: 3591071687577786695}
+<<<<<<< HEAD
   - component: {fileID: 193704914846674152}
   - component: {fileID: -8831907392581366861}
+=======
+  - component: {fileID: 6045501684278549072}
+  - component: {fileID: 5741361276345640713}
+>>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
   m_Layer: 9
   m_Name: Cube (0)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,7 +86,11 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!54 &193704914846674152
+=======
+--- !u!54 &6045501684278549072
+>>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,12 +101,21 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
+<<<<<<< HEAD
   m_UseGravity: 1
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!65 &-8831907392581366861
+=======
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &5741361276345640713
+>>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

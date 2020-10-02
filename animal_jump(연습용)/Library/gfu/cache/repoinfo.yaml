@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-10-02T23:21:47.506+09:00
   initializedAtString: 2020-10-02T23:21:47.506+09:00
+=======
+  lastUpdatedAtString: 2020-10-02T20:43:32.413+09:00
+  initializedAtString: 2020-10-02T20:43:32.413+09:00
+>>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
   currentGitRemote:
     name: origin
     url: https://github.com/ab6182005/AppleTeam.git
