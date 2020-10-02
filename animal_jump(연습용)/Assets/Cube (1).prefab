@@ -11,16 +11,11 @@ GameObject:
   - component: {fileID: 3639018063339856596}
   - component: {fileID: 3856630273039671287}
   - component: {fileID: 9160551203150086522}
-<<<<<<< HEAD
   - component: {fileID: 8917481854245116606}
   - component: {fileID: 5289709199687647951}
-=======
-  - component: {fileID: 4398873184097563831}
-  - component: {fileID: 6936799019786854447}
->>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
   m_Layer: 9
   m_Name: Cube (1)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -86,19 +81,13 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-<<<<<<< HEAD
 --- !u!65 &8917481854245116606
 BoxCollider:
-=======
---- !u!54 &4398873184097563831
-Rigidbody:
->>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 615070006755814368}
-<<<<<<< HEAD
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -107,25 +96,11 @@ Rigidbody:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &5289709199687647951
 Rigidbody:
-=======
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!65 &6936799019786854447
-BoxCollider:
->>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 615070006755814368}
-<<<<<<< HEAD
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -135,11 +110,3 @@ BoxCollider:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
-=======
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
->>>>>>> def7a7dc905d37d8d1371c4677eea2c29117a9f7

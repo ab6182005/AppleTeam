@@ -5,14 +5,13 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
-    public Rigidbody myrigidbody;
+    //public Rigidbody2D myrigidbody;
     public bool jump = false;
     public bool doublejump = false;
     public Transform pos;
     public float checkRadius;
     public LayerMask islayer;
     public bool isGround;
-    public object player;
 
     // Start is called before the first frame update
     void Start()
@@ -25,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector3 target = new Vector3(transform.position.x + 2.5f, transform.position.y + 5f, 0);
         Vector3 target1 = new Vector3(transform.position.x + 1.5f, transform.position.y + 2f, 0);
-
+        isGround = Physics2D.OverlapCircle(pos.position, checkRadius, islayer);
 
         if (jump && (isGround == true))
         {
@@ -38,15 +37,4 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
-
-    public void OnCollisionEnter(Collision collision)
-    {
-        Collider other = collision.collider;
-        if (other.CompareTag("Ground"))
-        {
-            isGround = true;
-        }
-    }
-
-
 }
