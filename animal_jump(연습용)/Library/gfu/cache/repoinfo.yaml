@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-02T23:21:47.506+09:00
-  initializedAtString: 2020-10-02T23:21:47.506+09:00
+  lastUpdatedAtString: 2020-09-25T13:16:57.821+09:00
+  initializedAtString: 2020-09-25T13:16:57.821+09:00
   currentGitRemote:
     name: origin
-    url: https://github.com/ab6182005/AppleTeam.git
+    url: https://github.com/ab6182005/AppleTeam
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/ab6182005/AppleTeam.git
+      url: https://github.com/ab6182005/AppleTeam
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/ab6182005/AppleTeam.git
+    url: https://github.com/ab6182005/AppleTeam
   currentHead: 
