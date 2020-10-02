@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class randomPlatform : MonoBehaviour
 {
@@ -18,15 +19,18 @@ public class randomPlatform : MonoBehaviour
     int i = 0;
     float randomX;
 
-    Rigidbody2D bodys;
+    Rigidbody bodys;
     GameObject Player;
     GameObject button;
     PlayerMovement playermovement;
     ButtonEvent buttonevent;
+    public Text score;
+    private int scorePoint;
 
     public void Start()
     {
-        bodys = GetComponent<Rigidbody2D>();
+        scorePoint = 0;
+        bodys = GetComponent<Rigidbody>();
 
         Player = GameObject.Find("Player");
         playermovement = Player.GetComponent<PlayerMovement>();
@@ -151,16 +155,21 @@ public class randomPlatform : MonoBehaviour
         X += randomX;
         Y += 1f;
 
-        bodys = transform.GetChild(i).GetComponent<Rigidbody2D>();
-        /**
+        bodys = transform.GetChild(i).GetComponent<Rigidbody>();
+        
+        /*
         if (playermovement.isGround == true)
         {
             bodys.isKinematic = false;
         }
-        **/
+        */
+        bodys.isKinematic = false;
 
         i++;
-    }
+
+        scorePoint += 1;
+        score.text = "" + scorePoint;
+        }
     //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
 
 }
