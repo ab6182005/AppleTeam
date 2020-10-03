@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
-    public Rigidbody myrigidbody;
+
     public bool jump = false;
     public bool doublejump = false;
     public Transform pos;
@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     
 
     GameObject platformparent;
+   
     randomPlatform randomplatform;
     
     
@@ -37,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
     {
 
         i = randomplatform.i;
+        Rigidbody bodys = platformparent.transform.GetChild(i).gameObject.GetComponent<Rigidbody>();
         GameObject ChildGameObject0 = platformparent.transform.GetChild(i+1).gameObject;
         GameObject ChildGameObject1 = ChildGameObject0.transform.Find("GameObject").gameObject;
 
@@ -47,14 +49,18 @@ public class PlayerMovement : MonoBehaviour
 
         if (jump && (isGround == true))
         {
-            transform.position = Vector3.Slerp(target,transform.position, 0.1f);
+            transform.position = Vector3.Slerp(target, transform.position, 0.1f);
+            bodys.useGravity = true;
         }
 
         if (doublejump && (isGround == true))
         {
             transform.position = Vector3.Slerp(target,transform.position,0.1f);
+            bodys.useGravity = true;
         }
 
+        
+        
     }
 
     public void OnCollisionEnter(Collision collision)

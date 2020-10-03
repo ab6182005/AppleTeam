@@ -454,7 +454,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 569593766}
-  speed: 1
+  speed: 3
   center: {x: 0, y: 0}
   size: {x: 0, y: 0}
   position: {x: 0, y: 0, z: 0}
@@ -625,7 +625,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12ff5c599f3f79a4382c2c75d46371ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myrigidbody: {fileID: 0}
   jump: 0
   doublejump: 0
   pos: {fileID: 924056770}
