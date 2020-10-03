@@ -9,32 +9,50 @@ public class PlayerMovement : MonoBehaviour
     public bool jump = false;
     public bool doublejump = false;
     public Transform pos;
+    public Transform Target;
     public float checkRadius;
     public LayerMask islayer;
     public bool isGround;
     public object player;
+    int i;
+    
 
+    GameObject platformparent;
+    randomPlatform randomplatform;
+    
+    
+
+  
     // Start is called before the first frame update
     void Start()
     {
-       // myrigidbody = GetComponent<Rigidbody2D>();
+        platformparent = GameObject.Find("PlatformParent");
+        randomplatform = platformparent.GetComponent<randomPlatform>();
+        
+        // myrigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 target = new Vector3(transform.position.x + 2.5f, transform.position.y + 5f, 0);
-        Vector3 target1 = new Vector3(transform.position.x + 1.5f, transform.position.y + 2f, 0);
+
+        i = randomplatform.i;
+        GameObject ChildGameObject0 = platformparent.transform.GetChild(i+1).gameObject;
+        GameObject ChildGameObject1 = ChildGameObject0.transform.Find("GameObject").gameObject;
+
+        Vector3 target = ChildGameObject1.transform.position;
+        //Vector3 target = new Vector3(transform.position.x + 1.0f, transform.position.y + 1f, 0);
+        //Vector3 target1 = new Vector3(transform.position.x + 0.5f, transform.position.y + 1f, 0);
 
 
         if (jump && (isGround == true))
         {
-            transform.position = Vector3.Slerp(target1, transform.position, 0.1f);
+            transform.position = Vector3.Slerp(target,transform.position, 0.1f);
         }
 
         if (doublejump && (isGround == true))
         {
-            transform.position = Vector3.Slerp(target, transform.position, 0.3f);
+            transform.position = Vector3.Slerp(target,transform.position,0.1f);
         }
 
     }

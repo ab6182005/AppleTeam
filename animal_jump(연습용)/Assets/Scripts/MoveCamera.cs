@@ -21,7 +21,7 @@ public class MoveCamera : MonoBehaviour
     void Update()
     {
         position = Vector3.Lerp(transform.position, target.position, Time.deltaTime * speed);
-        transform.position = new Vector3(position.x, transform.position.y, -20f);
+        transform.position = new Vector3(position.x, position.y, -20f);
        
     }
 }

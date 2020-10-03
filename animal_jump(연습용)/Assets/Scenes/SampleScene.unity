@@ -319,6 +319,7 @@ MonoBehaviour:
   cube2: {fileID: 615070006755814368, guid: 440d405ecbfa8b74782031d2e57fd86e, type: 3}
   cube3: {fileID: 5678839337283305262, guid: afa50ea6b06f1f24bb4cf4e2a6fb214c, type: 3}
   cube4: {fileID: 3050223941226766555, guid: 6d6a3f30c4eb9c04d88524323e7e1122, type: 3}
+  i: 0
 --- !u!4 &211414444
 Transform:
   m_ObjectHideFlags: 0
@@ -597,7 +598,7 @@ Transform:
   m_Children:
   - {fileID: 924056770}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &569593767
 BoxCollider:
@@ -624,9 +625,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12ff5c599f3f79a4382c2c75d46371ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myrigidbody: {fileID: 0}
   jump: 0
   doublejump: 0
   pos: {fileID: 924056770}
+  Target: {fileID: 0}
   checkRadius: 0.25
   islayer:
     serializedVersion: 2
@@ -646,7 +649,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!1 &627823603
 GameObject:
@@ -1301,7 +1304,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2017650780
 GameObject:
@@ -1332,7 +1335,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2017650782
 MonoBehaviour:

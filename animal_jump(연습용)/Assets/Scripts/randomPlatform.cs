@@ -15,10 +15,10 @@ public class randomPlatform : MonoBehaviour
     float X = 0;
     float Y = 0;
     float secondX;
-    int i = 0;
+    public int i = 0;
     float randomX;
 
-    Rigidbody2D bodys;
+    Rigidbody bodys;
     GameObject Player;
     GameObject button;
     GameObject score;
@@ -28,10 +28,12 @@ public class randomPlatform : MonoBehaviour
 
     public void Start()
     {
-        bodys = GetComponent<Rigidbody2D>();
+        bodys = GetComponent<Rigidbody>();
 
         Player = GameObject.Find("Player");
         playermovement = Player.GetComponent<PlayerMovement>();
+
+
 
         button = GameObject.Find("Button");
         buttonevent = button.GetComponent<ButtonEvent>();
@@ -129,7 +131,8 @@ public class randomPlatform : MonoBehaviour
             randomX = 3;
         }
 
-        if ((buttonevent.leftclick || buttonevent.rightclick) && playermovement.isGround == true) {
+        if (Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
+        {
            
             scoremanager.setScore(1);
             switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
@@ -158,14 +161,9 @@ public class randomPlatform : MonoBehaviour
         X += randomX;
         Y += 1f;
 
-        bodys = transform.GetChild(i).GetComponent<Rigidbody2D>();
-        
-        if (playermovement.isGround == false)
-        {
-            bodys.isKinematic = true;
-        }
-        
-
+        bodys = transform.GetChild(i).GetComponent<Rigidbody>();
+        bodys.isKinematic = false;
+            
         i++;
     }
     //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
