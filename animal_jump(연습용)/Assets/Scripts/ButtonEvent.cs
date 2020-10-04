@@ -31,22 +31,25 @@ public class ButtonEvent : MonoBehaviour
         playermovement.jump = true;
 
     }
-
+    
     public void LeftButtonUp()
     {
         leftclick = false;
         playermovement.jump = false;
     }
+   
 
     public void RightButtonDown()
     {
         rightclick = true;
         playermovement.doublejump = true;
     }
+    
     public void RightButtonUp()
     {
         rightclick = false;
         playermovement.doublejump = false;
     }
+   
 }
 

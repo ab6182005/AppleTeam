@@ -12,24 +12,32 @@ public class PlayerMovement : MonoBehaviour
     public Transform Target;
     public float checkRadius;
     public LayerMask islayer;
-    public bool isGround;
+    public bool isGround=false;
     public object player;
+    public bool temp;
     int i;
+    int randX;
     
 
     GameObject platformparent;
-   
     randomPlatform randomplatform;
-    
-    
 
-  
+
+    GameObject button;
+    ButtonEvent buttonevent;
+
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         platformparent = GameObject.Find("PlatformParent");
         randomplatform = platformparent.GetComponent<randomPlatform>();
-        
+
+        button = GameObject.Find("Button");
+        buttonevent = button.GetComponent<ButtonEvent>();
+
         // myrigidbody = GetComponent<Rigidbody2D>();
     }
 
@@ -39,38 +47,78 @@ public class PlayerMovement : MonoBehaviour
 
         i = randomplatform.i;
         Rigidbody bodys = platformparent.transform.GetChild(i).gameObject.GetComponent<Rigidbody>();
-        GameObject ChildGameObject0 = platformparent.transform.GetChild(i+1).gameObject;
-        GameObject ChildGameObject1 = ChildGameObject0.transform.Find("GameObject").gameObject;
+        GameObject ChildGameObject0 = platformparent.transform.GetChild(i + 1).gameObject;
 
-        Vector3 target = ChildGameObject1.transform.position;
-        //Vector3 target = new Vector3(transform.position.x + 1.0f, transform.position.y + 1f, 0);
-        //Vector3 target1 = new Vector3(transform.position.x + 0.5f, transform.position.y + 1f, 0);
+        GameObject target = ChildGameObject0.transform.Find("GameObject").gameObject;
+        GameObject shortjump = ChildGameObject0.transform.Find("short").gameObject;
+        GameObject longjump = ChildGameObject0.transform.Find("long").gameObject;
 
-
-        if (jump && (isGround == true))
+        Vector3 targetspot = target.transform.position;
+        Vector3 shortspot = shortjump.transform.position;
+        Vector3 longspot = longjump.transform.position;
+        
+       
+        if ((buttonevent.leftclick==true) && (isGround == true))
         {
-            transform.position = Vector3.Slerp(target, transform.position, 0.1f);
-            bodys.useGravity = true;
+            
+
+            if (randomplatform.randX == 1) 
+            {
+               
+                transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
+                bodys.useGravity = true;
+                isGround = false;
+
+            }
+
+            else
+            {
+                transform.position = Vector3.Slerp(shortspot, transform.position, 0.1f);
+                isGround = false;                                                          
+            }
+
+
         }
 
-        if (doublejump && (isGround == true))
+        if ((buttonevent.rightclick==true) && (isGround == true))
         {
-            transform.position = Vector3.Slerp(target,transform.position,0.1f);
-            bodys.useGravity = true;
-        }
 
-        
-        
+            if (randomplatform.randX == 2) 
+            {
+                transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
+                bodys.useGravity = true;
+                isGround = false;
+
+            }
+
+
+            else
+            {
+                
+                transform.position = Vector3.Slerp(longspot, transform.position, 0.1f);
+                isGround = false;
+
+            }
+
+
+        }
     }
 
-    public void OnCollisionEnter(Collision collision)
-    {
-        Collider other = collision.collider;
-        if (other.CompareTag("Ground"))
+
+
+
+        public void OnCollisionEnter(Collision collision)
         {
-            isGround = true;
+            Collider other = collision.collider;
+            if (other.CompareTag("Ground"))
+            {
+                isGround = true;
+            }
+                      
         }
+
+   
     }
 
 
-}
+

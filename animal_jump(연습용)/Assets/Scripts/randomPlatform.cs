@@ -18,6 +18,8 @@ public class randomPlatform : MonoBehaviour
     public int i = 0;
     float randomX;
 
+    public int randX;
+
     Rigidbody bodys;
     GameObject Player;
     GameObject button;
@@ -25,6 +27,7 @@ public class randomPlatform : MonoBehaviour
     PlayerMovement playermovement;
     ButtonEvent buttonevent;
     ScoreManager scoremanager;
+
 
     public void Start()
     {
@@ -79,11 +82,12 @@ public class randomPlatform : MonoBehaviour
     public float secondPlatform()
     {
         int whatToSpawn = Random.Range(1, 5);
-        int randX = Random.Range(1, 3);
+        randX = Random.Range(1, 3);
 
         if (randX == 1)
         {
             randomX = 1.5f;
+           
         }
         else
         {
@@ -119,22 +123,28 @@ public class randomPlatform : MonoBehaviour
 
     public void makePlatform()
     {
-        int whatToSpawn = Random.Range(1, 5);
-        int randX = Random.Range(1, 3);
 
-        if(randX == 1)
+        if ((Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1)))
         {
-            randomX = 1.5f;
-        }
-        else
-        {
-            randomX = 3;
-        }
 
-        if (Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
-        {
-           
+            int whatToSpawn = Random.Range(1, 5);
+            randX = Random.Range(1, 3);
+
+
+
+            if (randX == 1)
+            {
+                randomX = 1.5f;
+
+            }
+            else
+            {
+                randomX = 3;
+                
+            }
+
             scoremanager.setScore(1);
+           
             switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
             {
                 case 1:
