@@ -13,55 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-04T22:51:11.559+09:00
-  initializedAtString: 2020-10-04T20:06:31.444+09:00
+  lastUpdatedAtString: 2020-10-06T15:37:56.843+09:00
+  initializedAtString: 2020-10-06T15:05:43.426+09:00
   entries:
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube (0).prefab"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
-      (0).prefab"
-    projectPath: Assets\Cube (0).prefab
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\eraser.png"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\eraser.png"
+    projectPath: Assets\eraser.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\eraser.png.meta"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\eraser.png.meta"
+    projectPath: Assets\eraser.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scenes\\SampleScene.unity"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scenes\\SampleScene.unity"
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube (1).prefab"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
-      (1).prefab"
-    projectPath: Assets\Cube (1).prefab
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\EraserMovement.cs"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\EraserMovement.cs"
+    projectPath: Assets\Scripts\EraserMovement.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube (2).prefab"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
-      (2).prefab"
-    projectPath: Assets\Cube (2).prefab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\EraserMovement.cs.meta"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\EraserMovement.cs.meta"
+    projectPath: Assets\Scripts\EraserMovement.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube (3).prefab"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Cube
-      (3).prefab"
-    projectPath: Assets\Cube (3).prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\ButtonEvent.cs"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\ButtonEvent.cs"
-    projectPath: Assets\Scripts\ButtonEvent.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\PlayerMovement.cs"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\PlayerMovement.cs"
-    projectPath: Assets\Scripts\PlayerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\randomPlatform.cs"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Assets\\Scripts\\randomPlatform.cs"
-    projectPath: Assets\Scripts\randomPlatform.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ArtifactDB"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ArtifactDB"
     projectPath: Library\ArtifactDB
@@ -72,11 +56,17 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\01\\0120909c4174f17e9242673fc48b141d"
     projectPath: Library\Artifacts\01\0120909c4174f17e9242673fc48b141d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\02\\02c38873810e10f68b45b331a14bb872"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\02\\02c38873810e10f68b45b331a14bb872"
     projectPath: Library\Artifacts\02\02c38873810e10f68b45b331a14bb872
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\03\\03a1e62dd2971d8ef073a9fc432e43e4"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\03\\03a1e62dd2971d8ef073a9fc432e43e4"
+    projectPath: Library\Artifacts\03\03a1e62dd2971d8ef073a9fc432e43e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -84,29 +74,35 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\04\\043ed1209317a2992e6cca7759e15c01"
     projectPath: Library\Artifacts\04\043ed1209317a2992e6cca7759e15c01
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\04\\04e19bca47159d595b1810a37cae7f93"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\04\\04e19bca47159d595b1810a37cae7f93"
-    projectPath: Library\Artifacts\04\04e19bca47159d595b1810a37cae7f93
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\07\\0726d5a4e6205a08dd85b18d6c4a7c76"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\07\\0726d5a4e6205a08dd85b18d6c4a7c76"
     projectPath: Library\Artifacts\07\0726d5a4e6205a08dd85b18d6c4a7c76
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\07\\07281f727261fa77b2e95ee7c7e89976"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\07\\07281f727261fa77b2e95ee7c7e89976"
+    projectPath: Library\Artifacts\07\07281f727261fa77b2e95ee7c7e89976
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\09\\09864787533af801802f7be3c16a909d"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\09\\09864787533af801802f7be3c16a909d"
     projectPath: Library\Artifacts\09\09864787533af801802f7be3c16a909d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0a\\0a1585f178af52af2e1767076e32d868"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0a\\0a1585f178af52af2e1767076e32d868"
     projectPath: Library\Artifacts\0a\0a1585f178af52af2e1767076e32d868
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0d\\0de62ac946b0526f84fd3a9ab925b34e"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0d\\0de62ac946b0526f84fd3a9ab925b34e"
+    projectPath: Library\Artifacts\0d\0de62ac946b0526f84fd3a9ab925b34e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -114,53 +110,41 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0e\\0e0f8e56f86ae5d3464f8b9aef45e45f"
     projectPath: Library\Artifacts\0e\0e0f8e56f86ae5d3464f8b9aef45e45f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0f\\0f1a2ccd0baf8d8e9ef1c820665e1c25"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\0f\\0f1a2ccd0baf8d8e9ef1c820665e1c25"
     projectPath: Library\Artifacts\0f\0f1a2ccd0baf8d8e9ef1c820665e1c25
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\16\\163f95c37076d3fbc7e458d9ed36ab22"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\16\\163f95c37076d3fbc7e458d9ed36ab22"
     projectPath: Library\Artifacts\16\163f95c37076d3fbc7e458d9ed36ab22
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\16\\16c98138448d8625177565416d596f37"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\16\\16c98138448d8625177565416d596f37"
     projectPath: Library\Artifacts\16\16c98138448d8625177565416d596f37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\19\\195ce7e47a6f300c26001af39754c33a"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\19\\195ce7e47a6f300c26001af39754c33a"
     projectPath: Library\Artifacts\19\195ce7e47a6f300c26001af39754c33a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\1d\\1d8e1cebc1b95d6558c63bd367059fca"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\1d\\1d8e1cebc1b95d6558c63bd367059fca"
-    projectPath: Library\Artifacts\1d\1d8e1cebc1b95d6558c63bd367059fca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\21\\21870f69af12cb4984de048cd160b8de"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\21\\21870f69af12cb4984de048cd160b8de"
     projectPath: Library\Artifacts\21\21870f69af12cb4984de048cd160b8de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\22\\227373a3216fdc5d161b614e0e237f53"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\22\\227373a3216fdc5d161b614e0e237f53"
     projectPath: Library\Artifacts\22\227373a3216fdc5d161b614e0e237f53
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\25\\253bf277e8209d389656eb492cd45c80"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\25\\253bf277e8209d389656eb492cd45c80"
-    projectPath: Library\Artifacts\25\253bf277e8209d389656eb492cd45c80
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -168,23 +152,17 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\27\\27ee5ceef77bf3a77306398fd29d354c"
     projectPath: Library\Artifacts\27\27ee5ceef77bf3a77306398fd29d354c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\2f\\2f6ea05efdef5f30ed3d31934b3a334c"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\2f\\2f6ea05efdef5f30ed3d31934b3a334c"
     projectPath: Library\Artifacts\2f\2f6ea05efdef5f30ed3d31934b3a334c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\30\\301572f7f116b6df059db5770e9935a5"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\30\\301572f7f116b6df059db5770e9935a5"
     projectPath: Library\Artifacts\30\301572f7f116b6df059db5770e9935a5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\31\\31eeb6e6791604c416ac27bd618285c6"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\31\\31eeb6e6791604c416ac27bd618285c6"
-    projectPath: Library\Artifacts\31\31eeb6e6791604c416ac27bd618285c6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -192,29 +170,35 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\32\\3271b791dde0c6bb5dc72db3d14106ca"
     projectPath: Library\Artifacts\32\3271b791dde0c6bb5dc72db3d14106ca
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\33\\33a2acaf55132f3da75544d37c8c911d"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\33\\33a2acaf55132f3da75544d37c8c911d"
     projectPath: Library\Artifacts\33\33a2acaf55132f3da75544d37c8c911d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\33\\33b7d5fe0b8009f4bfdaf18adce7fedc"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\33\\33b7d5fe0b8009f4bfdaf18adce7fedc"
     projectPath: Library\Artifacts\33\33b7d5fe0b8009f4bfdaf18adce7fedc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\36\\362a900858764d131a48ad47eb50d901"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\36\\362a900858764d131a48ad47eb50d901"
     projectPath: Library\Artifacts\36\362a900858764d131a48ad47eb50d901
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\3c\\3c43715f654a0ac2f050730f0659c7da"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\3c\\3c43715f654a0ac2f050730f0659c7da"
+    projectPath: Library\Artifacts\3c\3c43715f654a0ac2f050730f0659c7da
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\40\\40fb5b6635b8a5b830488cf8b6b93977"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\40\\40fb5b6635b8a5b830488cf8b6b93977"
-    projectPath: Library\Artifacts\40\40fb5b6635b8a5b830488cf8b6b93977
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\46\\464ac86aa3adcf7a89ce65bed59a6eb3"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\46\\464ac86aa3adcf7a89ce65bed59a6eb3"
+    projectPath: Library\Artifacts\46\464ac86aa3adcf7a89ce65bed59a6eb3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -222,17 +206,29 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\48\\48cc1082968abf85523a7be497920be3"
     projectPath: Library\Artifacts\48\48cc1082968abf85523a7be497920be3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\4c\\4c99ad8d8f88a3bfb41fa72fbc98d19b"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\4c\\4c99ad8d8f88a3bfb41fa72fbc98d19b"
     projectPath: Library\Artifacts\4c\4c99ad8d8f88a3bfb41fa72fbc98d19b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\4e\\4ef92ec9e65efdf15c615fa36598b10e"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\4e\\4ef92ec9e65efdf15c615fa36598b10e"
     projectPath: Library\Artifacts\4e\4ef92ec9e65efdf15c615fa36598b10e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\50\\506fee970ad71904c85b9524d5844c84"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\50\\506fee970ad71904c85b9524d5844c84"
+    projectPath: Library\Artifacts\50\506fee970ad71904c85b9524d5844c84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\50\\50e369638fbe5536ee534b100ba6ea75"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\50\\50e369638fbe5536ee534b100ba6ea75"
+    projectPath: Library\Artifacts\50\50e369638fbe5536ee534b100ba6ea75
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -240,95 +236,119 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\54\\5405a54c9b8306efb6d3ab6135f61c1b"
     projectPath: Library\Artifacts\54\5405a54c9b8306efb6d3ab6135f61c1b
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5b\\5b5fac6df54147bcd8a217fe2c14f8d8"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5b\\5b5fac6df54147bcd8a217fe2c14f8d8"
+    projectPath: Library\Artifacts\5b\5b5fac6df54147bcd8a217fe2c14f8d8
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5c\\5c5903aad7cd6570b3e547dc37c80aa1"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5c\\5c5903aad7cd6570b3e547dc37c80aa1"
     projectPath: Library\Artifacts\5c\5c5903aad7cd6570b3e547dc37c80aa1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5e\\5ef8b4f5b4f9a02ba18c41a36c3e2cc8"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5e\\5ef8b4f5b4f9a02ba18c41a36c3e2cc8"
     projectPath: Library\Artifacts\5e\5ef8b4f5b4f9a02ba18c41a36c3e2cc8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5f\\5f85b6866eae009c18e9c027fa80c98f"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\5f\\5f85b6866eae009c18e9c027fa80c98f"
     projectPath: Library\Artifacts\5f\5f85b6866eae009c18e9c027fa80c98f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\63\\63318433467ea75f2bfd4d21b56791fc"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\63\\63318433467ea75f2bfd4d21b56791fc"
+    projectPath: Library\Artifacts\63\63318433467ea75f2bfd4d21b56791fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\64\\6407be1c8ded7c3ea07905eb9c3db9a7"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\64\\6407be1c8ded7c3ea07905eb9c3db9a7"
     projectPath: Library\Artifacts\64\6407be1c8ded7c3ea07905eb9c3db9a7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\64\\64ec20e216d83b390b4e4499aa6c2057"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\64\\64ec20e216d83b390b4e4499aa6c2057"
     projectPath: Library\Artifacts\64\64ec20e216d83b390b4e4499aa6c2057
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\66\\66fc220b9fbcb41e48b70c63d215f531"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\66\\66fc220b9fbcb41e48b70c63d215f531"
     projectPath: Library\Artifacts\66\66fc220b9fbcb41e48b70c63d215f531
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6c\\6c4a03a9eef6ac4a8f4c5077177449b7"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6c\\6c4a03a9eef6ac4a8f4c5077177449b7"
     projectPath: Library\Artifacts\6c\6c4a03a9eef6ac4a8f4c5077177449b7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6c\\6cf8d504d313bdcc994c284b5cf658de"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6c\\6cf8d504d313bdcc994c284b5cf658de"
     projectPath: Library\Artifacts\6c\6cf8d504d313bdcc994c284b5cf658de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6d\\6d445dc38a2572ed0ab7a07ccd98bba6"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6d\\6d445dc38a2572ed0ab7a07ccd98bba6"
     projectPath: Library\Artifacts\6d\6d445dc38a2572ed0ab7a07ccd98bba6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6d\\6da94c834423ec0e1eeedea2480f3dc2"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6d\\6da94c834423ec0e1eeedea2480f3dc2"
     projectPath: Library\Artifacts\6d\6da94c834423ec0e1eeedea2480f3dc2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6e\\6ec41359d50e0d4247ce910c61a05c9e"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6e\\6ec41359d50e0d4247ce910c61a05c9e"
+    projectPath: Library\Artifacts\6e\6ec41359d50e0d4247ce910c61a05c9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6f\\6f820d009cfa0f9dcf6391f303607fbe"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\6f\\6f820d009cfa0f9dcf6391f303607fbe"
     projectPath: Library\Artifacts\6f\6f820d009cfa0f9dcf6391f303607fbe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\70\\70d3f8e23884217762c7c3a3812f4048"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\70\\70d3f8e23884217762c7c3a3812f4048"
     projectPath: Library\Artifacts\70\70d3f8e23884217762c7c3a3812f4048
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\78\\785615247171ab975e016eb4a9028cb0"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\78\\785615247171ab975e016eb4a9028cb0"
     projectPath: Library\Artifacts\78\785615247171ab975e016eb4a9028cb0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c5654ca1342e05b07fa725309926449"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c5654ca1342e05b07fa725309926449"
-    projectPath: Library\Artifacts\7c\7c5654ca1342e05b07fa725309926449
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7a\\7a43a63aa436efaac4b7160b2ee1fb46"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7a\\7a43a63aa436efaac4b7160b2ee1fb46"
+    projectPath: Library\Artifacts\7a\7a43a63aa436efaac4b7160b2ee1fb46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c59ecf8ec397886838c7c86deb088e2"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c59ecf8ec397886838c7c86deb088e2"
     projectPath: Library\Artifacts\7c\7c59ecf8ec397886838c7c86deb088e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c6d6e4cec48f0db16f16d97e294958b"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c6d6e4cec48f0db16f16d97e294958b"
+    projectPath: Library\Artifacts\7c\7c6d6e4cec48f0db16f16d97e294958b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -336,11 +356,17 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7c9a0c65d662ca1650915423256a5ce4"
     projectPath: Library\Artifacts\7c\7c9a0c65d662ca1650915423256a5ce4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7cfec07e231c1c78ac9a456a096ccaee"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7c\\7cfec07e231c1c78ac9a456a096ccaee"
     projectPath: Library\Artifacts\7c\7cfec07e231c1c78ac9a456a096ccaee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7e\\7e5be8361a7895a265752588abdd2513"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7e\\7e5be8361a7895a265752588abdd2513"
+    projectPath: Library\Artifacts\7e\7e5be8361a7895a265752588abdd2513
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -348,17 +374,11 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\7e\\7ecb623ab4c4ac8707f91deea2ffa915"
     projectPath: Library\Artifacts\7e\7ecb623ab4c4ac8707f91deea2ffa915
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\82\\829b3637d4f423d7f94877013869448a"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\82\\829b3637d4f423d7f94877013869448a"
     projectPath: Library\Artifacts\82\829b3637d4f423d7f94877013869448a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\85\\851f8b8510fd8e61c4afe46905c6c503"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\85\\851f8b8510fd8e61c4afe46905c6c503"
-    projectPath: Library\Artifacts\85\851f8b8510fd8e61c4afe46905c6c503
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -366,11 +386,17 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\86\\869ecd08322704db0c485788ad036a93"
     projectPath: Library\Artifacts\86\869ecd08322704db0c485788ad036a93
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\87\\87f2d80ec332d8fb2d9d1dd7aa0e1d3f"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\87\\87f2d80ec332d8fb2d9d1dd7aa0e1d3f"
     projectPath: Library\Artifacts\87\87f2d80ec332d8fb2d9d1dd7aa0e1d3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\88\\885b73f796b86f4fe28f58bd39114769"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\88\\885b73f796b86f4fe28f58bd39114769"
+    projectPath: Library\Artifacts\88\885b73f796b86f4fe28f58bd39114769
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -378,59 +404,59 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\88\\8866ff86edc20e60d0e60d0c4d3d982d"
     projectPath: Library\Artifacts\88\8866ff86edc20e60d0e60d0c4d3d982d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8c\\8c00f744dd10c7edcac05eeaf3c726ab"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8c\\8c00f744dd10c7edcac05eeaf3c726ab"
     projectPath: Library\Artifacts\8c\8c00f744dd10c7edcac05eeaf3c726ab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8e\\8eb5865da4394b1bc0db62b4fa48ff45"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8e\\8eb5865da4394b1bc0db62b4fa48ff45"
     projectPath: Library\Artifacts\8e\8eb5865da4394b1bc0db62b4fa48ff45
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8f\\8fb56921a71f70463ed56ecf79b0ebb0"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\8f\\8fb56921a71f70463ed56ecf79b0ebb0"
     projectPath: Library\Artifacts\8f\8fb56921a71f70463ed56ecf79b0ebb0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\91\\91f4beda6f5b1ba19b874fc7a6f681a5"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\91\\91f4beda6f5b1ba19b874fc7a6f681a5"
-    projectPath: Library\Artifacts\91\91f4beda6f5b1ba19b874fc7a6f681a5
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\90\\906f51aed0cebb4635abe10199e6a390"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\90\\906f51aed0cebb4635abe10199e6a390"
+    projectPath: Library\Artifacts\90\906f51aed0cebb4635abe10199e6a390
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\92\\92e523fb6f0d234bae3c9726893818de"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\92\\92e523fb6f0d234bae3c9726893818de"
     projectPath: Library\Artifacts\92\92e523fb6f0d234bae3c9726893818de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\96\\96a26b09afabfdfbb5e9d643fe5f2222"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\96\\96a26b09afabfdfbb5e9d643fe5f2222"
     projectPath: Library\Artifacts\96\96a26b09afabfdfbb5e9d643fe5f2222
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\971fa1717dd0f14af8b079022bf836dc"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\971fa1717dd0f14af8b079022bf836dc"
     projectPath: Library\Artifacts\97\971fa1717dd0f14af8b079022bf836dc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\97978b9ea023c6e104e4d7a0755abb7e"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\97978b9ea023c6e104e4d7a0755abb7e"
     projectPath: Library\Artifacts\97\97978b9ea023c6e104e4d7a0755abb7e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\97d25271b9c3e1d1e426dfec9a501f3e"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\97\\97d25271b9c3e1d1e426dfec9a501f3e"
-    projectPath: Library\Artifacts\97\97d25271b9c3e1d1e426dfec9a501f3e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\98\\98df5f327c075c6e8434ef083bbce901"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\98\\98df5f327c075c6e8434ef083bbce901"
+    projectPath: Library\Artifacts\98\98df5f327c075c6e8434ef083bbce901
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -438,101 +464,95 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\99\\999aac4c835d9e0bfbe426ec7512a63f"
     projectPath: Library\Artifacts\99\999aac4c835d9e0bfbe426ec7512a63f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\9b\\9b3b8a56c792205c505eca5fa85786e0"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\9b\\9b3b8a56c792205c505eca5fa85786e0"
     projectPath: Library\Artifacts\9b\9b3b8a56c792205c505eca5fa85786e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a0\\a0ac21918d03492af70c276d2894f3a9"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a0\\a0ac21918d03492af70c276d2894f3a9"
     projectPath: Library\Artifacts\a0\a0ac21918d03492af70c276d2894f3a9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a2\\a254af51f71f99593fefca2a0afecf80"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a2\\a254af51f71f99593fefca2a0afecf80"
     projectPath: Library\Artifacts\a2\a254af51f71f99593fefca2a0afecf80
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a3\\a3bc3d55ebccfb91c66d144a0cfa4bba"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a3\\a3bc3d55ebccfb91c66d144a0cfa4bba"
     projectPath: Library\Artifacts\a3\a3bc3d55ebccfb91c66d144a0cfa4bba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a7\\a78f693c457df23301eb436993d62911"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a7\\a78f693c457df23301eb436993d62911"
     projectPath: Library\Artifacts\a7\a78f693c457df23301eb436993d62911
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a8\\a86e03cd1718e823f000bbf3a07d5401"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\a8\\a86e03cd1718e823f000bbf3a07d5401"
-    projectPath: Library\Artifacts\a8\a86e03cd1718e823f000bbf3a07d5401
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\aa\\aa06ca03c880b21ebb14c147e102cd5f"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\aa\\aa06ca03c880b21ebb14c147e102cd5f"
     projectPath: Library\Artifacts\aa\aa06ca03c880b21ebb14c147e102cd5f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\aa\\aa58e50a9c08a3e7b891bb8238494be9"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\aa\\aa58e50a9c08a3e7b891bb8238494be9"
     projectPath: Library\Artifacts\aa\aa58e50a9c08a3e7b891bb8238494be9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ab\\ab768d8e07a8c6a31034ad54c5398511"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ab\\ab768d8e07a8c6a31034ad54c5398511"
     projectPath: Library\Artifacts\ab\ab768d8e07a8c6a31034ad54c5398511
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ad\\adf173b6261caa16f02e14cdedfba38d"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ad\\adf173b6261caa16f02e14cdedfba38d"
-    projectPath: Library\Artifacts\ad\adf173b6261caa16f02e14cdedfba38d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ae\\ae4ce1ba19e8c816f8e62ad2a35daf27"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ae\\ae4ce1ba19e8c816f8e62ad2a35daf27"
     projectPath: Library\Artifacts\ae\ae4ce1ba19e8c816f8e62ad2a35daf27
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ae\\aef3959aff4b24b4c8b6243682dc7805"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ae\\aef3959aff4b24b4c8b6243682dc7805"
     projectPath: Library\Artifacts\ae\aef3959aff4b24b4c8b6243682dc7805
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\af\\afc47ebaf03a9061d5c9aa49907282c1"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\af\\afc47ebaf03a9061d5c9aa49907282c1"
     projectPath: Library\Artifacts\af\afc47ebaf03a9061d5c9aa49907282c1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b3\\b3f21197faffed73627063dfe2cd2dde"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b3\\b3f21197faffed73627063dfe2cd2dde"
     projectPath: Library\Artifacts\b3\b3f21197faffed73627063dfe2cd2dde
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b5\\b5a2ffae9a5b66e17eee8e49c7434c39"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b5\\b5a2ffae9a5b66e17eee8e49c7434c39"
     projectPath: Library\Artifacts\b5\b5a2ffae9a5b66e17eee8e49c7434c39
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b5\\b5b0e5564e47592b35a4e96ef02bbeab"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\b5\\b5b0e5564e47592b35a4e96ef02bbeab"
     projectPath: Library\Artifacts\b5\b5b0e5564e47592b35a4e96ef02bbeab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\bb\\bb0da62bdebc2a1d321b1f549ea3c917"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\bb\\bb0da62bdebc2a1d321b1f549ea3c917"
+    projectPath: Library\Artifacts\bb\bb0da62bdebc2a1d321b1f549ea3c917
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -540,47 +560,59 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c2\\c20567415772116e2b08b11c0da4b5eb"
     projectPath: Library\Artifacts\c2\c20567415772116e2b08b11c0da4b5eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c5\\c5db9f7f56d8ca9f37c01e10fa2366fe"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c5\\c5db9f7f56d8ca9f37c01e10fa2366fe"
     projectPath: Library\Artifacts\c5\c5db9f7f56d8ca9f37c01e10fa2366fe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c8\\c87debc651f19d45903b20818f4977fd"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c8\\c87debc651f19d45903b20818f4977fd"
     projectPath: Library\Artifacts\c8\c87debc651f19d45903b20818f4977fd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c8\\c8c45db0b80bbc54f6a8a29223b45159"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\c8\\c8c45db0b80bbc54f6a8a29223b45159"
     projectPath: Library\Artifacts\c8\c8c45db0b80bbc54f6a8a29223b45159
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\cc\\cc773773f08f71b9966882e3bf2188c5"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\cc\\cc773773f08f71b9966882e3bf2188c5"
+    projectPath: Library\Artifacts\cc\cc773773f08f71b9966882e3bf2188c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\cd\\cd49ff56d1f6be5422b43a228f929440"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\cd\\cd49ff56d1f6be5422b43a228f929440"
     projectPath: Library\Artifacts\cd\cd49ff56d1f6be5422b43a228f929440
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d1\\d14d7ef896709087ba1d5083c6dc9826"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d1\\d14d7ef896709087ba1d5083c6dc9826"
-    projectPath: Library\Artifacts\d1\d14d7ef896709087ba1d5083c6dc9826
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d0\\d0fd34d94afa4c051996aa65d29a4f82"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d0\\d0fd34d94afa4c051996aa65d29a4f82"
+    projectPath: Library\Artifacts\d0\d0fd34d94afa4c051996aa65d29a4f82
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d3\\d35493889f6775a80f2c00b9902146e4"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d3\\d35493889f6775a80f2c00b9902146e4"
     projectPath: Library\Artifacts\d3\d35493889f6775a80f2c00b9902146e4
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d4\\d460293789d9a59a0963dce6beb20b23"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d4\\d460293789d9a59a0963dce6beb20b23"
+    projectPath: Library\Artifacts\d4\d460293789d9a59a0963dce6beb20b23
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\dc\\dc55fc85614786aae4d77bfe88a1e216"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\dc\\dc55fc85614786aae4d77bfe88a1e216"
-    projectPath: Library\Artifacts\dc\dc55fc85614786aae4d77bfe88a1e216
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d7\\d7a33647cc46d11b34ed5e38f7dcbf97"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\d7\\d7a33647cc46d11b34ed5e38f7dcbf97"
+    projectPath: Library\Artifacts\d7\d7a33647cc46d11b34ed5e38f7dcbf97
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -588,17 +620,11 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e4\\e4112a75faf580f697d685af0108256f"
     projectPath: Library\Artifacts\e4\e4112a75faf580f697d685af0108256f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e4\\e4616cd99726fda355561e7a8227512d"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e4\\e4616cd99726fda355561e7a8227512d"
     projectPath: Library\Artifacts\e4\e4616cd99726fda355561e7a8227512d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e8\\e85ac7c0d589a032d75f7e93ffa863aa"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e8\\e85ac7c0d589a032d75f7e93ffa863aa"
-    projectPath: Library\Artifacts\e8\e85ac7c0d589a032d75f7e93ffa863aa
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -606,17 +632,23 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e8\\e85d3dee575c5c380e39ee3928c37d23"
     projectPath: Library\Artifacts\e8\e85d3dee575c5c380e39ee3928c37d23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e8\\e87ef8ce48b16da45c4f3c3d6389d34c"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e8\\e87ef8ce48b16da45c4f3c3d6389d34c"
     projectPath: Library\Artifacts\e8\e87ef8ce48b16da45c4f3c3d6389d34c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e9\\e90c2a3c0d25d4ccf69cb083d70b1c8d"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\e9\\e90c2a3c0d25d4ccf69cb083d70b1c8d"
     projectPath: Library\Artifacts\e9\e90c2a3c0d25d4ccf69cb083d70b1c8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ea\\ea054cfb10a704c365121407bc0fca62"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ea\\ea054cfb10a704c365121407bc0fca62"
+    projectPath: Library\Artifacts\ea\ea054cfb10a704c365121407bc0fca62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -624,23 +656,29 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ee\\ee2dc82093390c3072f671f46ae0e816"
     projectPath: Library\Artifacts\ee\ee2dc82093390c3072f671f46ae0e816
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f2\\f2393dd6e10f455d65f2a6708c18d2d4"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f2\\f2393dd6e10f455d65f2a6708c18d2d4"
     projectPath: Library\Artifacts\f2\f2393dd6e10f455d65f2a6708c18d2d4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f2\\f2e9a2388760bb25519133850ea19642"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f2\\f2e9a2388760bb25519133850ea19642"
     projectPath: Library\Artifacts\f2\f2e9a2388760bb25519133850ea19642
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f3\\f3c07a5bef0ea9df98f1e7c4a9a40634"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f3\\f3c07a5bef0ea9df98f1e7c4a9a40634"
     projectPath: Library\Artifacts\f3\f3c07a5bef0ea9df98f1e7c4a9a40634
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f3\\f3db8d041525dace8a0fd71bd388c200"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f3\\f3db8d041525dace8a0fd71bd388c200"
+    projectPath: Library\Artifacts\f3\f3db8d041525dace8a0fd71bd388c200
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -648,23 +686,29 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f5\\f5c5f587d3324ad657af5f2860703aea"
     projectPath: Library\Artifacts\f5\f5c5f587d3324ad657af5f2860703aea
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f6\\f68529f3c0b3ee4dae039d5ae5e80657"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f6\\f68529f3c0b3ee4dae039d5ae5e80657"
+    projectPath: Library\Artifacts\f6\f68529f3c0b3ee4dae039d5ae5e80657
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f6\\f6b7cf76170edc1ae3e9e8fb4acd4bcb"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f6\\f6b7cf76170edc1ae3e9e8fb4acd4bcb"
     projectPath: Library\Artifacts\f6\f6b7cf76170edc1ae3e9e8fb4acd4bcb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f7\\f754e9b208a4a928dc638a3007c09208"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f7\\f754e9b208a4a928dc638a3007c09208"
     projectPath: Library\Artifacts\f7\f754e9b208a4a928dc638a3007c09208
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fa\\fa0c79214a83f701e941f7899b6b7ce6"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fa\\fa0c79214a83f701e941f7899b6b7ce6"
-    projectPath: Library\Artifacts\fa\fa0c79214a83f701e941f7899b6b7ce6
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f9\\f9486e1d70f83f39c3be637faad87d08"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\f9\\f9486e1d70f83f39c3be637faad87d08"
+    projectPath: Library\Artifacts\f9\f9486e1d70f83f39c3be637faad87d08
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -672,38 +716,38 @@ MonoBehaviour:
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fa\\fa69252cc91b8936eb59aa7f5070b582"
     projectPath: Library\Artifacts\fa\fa69252cc91b8936eb59aa7f5070b582
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fd\\fd2d757029054a6c16dc39fbcc30a5fb"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fd\\fd2d757029054a6c16dc39fbcc30a5fb"
     projectPath: Library\Artifacts\fd\fd2d757029054a6c16dc39fbcc30a5fb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fe\\fe9afb987f9c13b939f18416945c1936"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\fe\\fe9afb987f9c13b939f18416945c1936"
     projectPath: Library\Artifacts\fe\fe9afb987f9c13b939f18416945c1936
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ff\\ffaa8fc15c612a20f41337751235fb96"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\Artifacts\\ff\\ffaa8fc15c612a20f41337751235fb96"
     projectPath: Library\Artifacts\ff\ffaa8fc15c612a20f41337751235fb96
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\CurrentLayout-default.dwlt"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\CurrentLayout-default.dwlt"
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\EditorInstance.json"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\EditorInstance.json"
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\EditorUserBuildSettings.asset"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\EditorUserBuildSettings.asset"
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\gfu\\cache\\gitlocks.yaml"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\gfu\\cache\\gitlocks.yaml"
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -740,27 +784,195 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor-firstpass.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor-firstpass.dll"
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\PsdPlugin.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\PsdPlugin.dll"
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Runtime.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Runtime.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Triangle.Runtime.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Animation.Triangle.Runtime.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Common.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Common.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Common.Runtime.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Common.Runtime.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Path.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Path.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.PixelPerfect.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.PixelPerfect.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.PixelPerfect.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.PixelPerfect.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Psdimporter.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Psdimporter.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Sprite.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Sprite.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.SpriteShape.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.SpriteShape.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Tilemap.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.2D.Tilemap.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.CollabProxy.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.CollabProxy.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.InternalAPIEditorBridge.001.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.InternalAPIEditorBridge.001.dll"
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll"
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Mathematics.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Mathematics.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Mathematics.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Mathematics.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Rider.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Rider.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll"
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.TextMeshPro.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.TextMeshPro.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Timeline.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Timeline.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Timeline.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.Timeline.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.VSCode.Editor.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\Unity.VSCode.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEditor.TestRunner.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEditor.TestRunner.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEditor.UI.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEditor.UI.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEngine.UI.dll"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\ScriptAssemblies\\UnityEngine.UI.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\SourceAssetDB"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\SourceAssetDB"
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-440d405ecbfa8b7478.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-440d405ecbfa8b7478.json"
-    projectPath: Library\StateCache\Hierarchy\aba65c-440d405ecbfa8b7478.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-6d6a3f30c4eb9c04d8.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-6d6a3f30c4eb9c04d8.json"
-    projectPath: Library\StateCache\Hierarchy\aba65c-6d6a3f30c4eb9c04d8.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-afa50ea6b06f1f24bb.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-afa50ea6b06f1f24bb.json"
-    projectPath: Library\StateCache\Hierarchy\aba65c-afa50ea6b06f1f24bb.json
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-923ce3ffdb8c573488.json"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\Hierarchy\\aba65c-923ce3ffdb8c573488.json"
+    projectPath: Library\StateCache\Hierarchy\aba65c-923ce3ffdb8c573488.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -770,39 +982,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-440d405ecbfa8b7478.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-440d405ecbfa8b7478.json"
-    projectPath: Library\StateCache\SceneView\230b98-440d405ecbfa8b7478.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-6d6a3f30c4eb9c04d8.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-6d6a3f30c4eb9c04d8.json"
-    projectPath: Library\StateCache\SceneView\230b98-6d6a3f30c4eb9c04d8.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-923ce3ffdb8c573488.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-923ce3ffdb8c573488.json"
-    projectPath: Library\StateCache\SceneView\230b98-923ce3ffdb8c573488.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-afa50ea6b06f1f24bb.json"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-afa50ea6b06f1f24bb.json"
-    projectPath: Library\StateCache\SceneView\230b98-afa50ea6b06f1f24bb.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-mainStage.json"
     fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Library\\StateCache\\SceneView\\230b98-mainStage.json"
     projectPath: Library\StateCache\SceneView\230b98-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TimeManager.asset"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TimeManager.asset"
-    projectPath: ProjectSettings\TimeManager.asset
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\obj\\Debug\\Assembly-CSharp.csprojAssemblyReference.cache"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\obj\\Debug\\Assembly-CSharp.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TagManager.asset"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\ProjectSettings\\TagManager.asset"
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -818,399 +1012,273 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-01499923819bee244ad6a57c65ec1473"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-01499923819bee244ad6a57c65ec1473"
-    projectPath: Temp\UnityTempFile-01499923819bee244ad6a57c65ec1473
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-00077aaf1ef73a5448f9c596de6cf4ce"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-00077aaf1ef73a5448f9c596de6cf4ce"
+    projectPath: Temp\UnityTempFile-00077aaf1ef73a5448f9c596de6cf4ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-02a4e33c996fc2042a18fbf10e2a0a90"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-02a4e33c996fc2042a18fbf10e2a0a90"
-    projectPath: Temp\UnityTempFile-02a4e33c996fc2042a18fbf10e2a0a90
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-006a920da3f3f4a44bc4e14e6ea8f107"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-006a920da3f3f4a44bc4e14e6ea8f107"
+    projectPath: Temp\UnityTempFile-006a920da3f3f4a44bc4e14e6ea8f107
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0442eda073b26f54fba6df9794612c95"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0442eda073b26f54fba6df9794612c95"
-    projectPath: Temp\UnityTempFile-0442eda073b26f54fba6df9794612c95
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-02da063344804e346b08a78bc309b549"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-02da063344804e346b08a78bc309b549"
+    projectPath: Temp\UnityTempFile-02da063344804e346b08a78bc309b549
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0681d800338178b4f9aef361f86e2339"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0681d800338178b4f9aef361f86e2339"
-    projectPath: Temp\UnityTempFile-0681d800338178b4f9aef361f86e2339
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0b2a0657cf5e6294a9a61bc1939a1789"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-0b2a0657cf5e6294a9a61bc1939a1789"
+    projectPath: Temp\UnityTempFile-0b2a0657cf5e6294a9a61bc1939a1789
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13ab7e9954b041747ba2104231e20703"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13ab7e9954b041747ba2104231e20703"
-    projectPath: Temp\UnityTempFile-13ab7e9954b041747ba2104231e20703
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13ed994ca57bf16409d65f06b5f2276f"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13ed994ca57bf16409d65f06b5f2276f"
+    projectPath: Temp\UnityTempFile-13ed994ca57bf16409d65f06b5f2276f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13eee1145b69f26468669c904925164e"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-13eee1145b69f26468669c904925164e"
-    projectPath: Temp\UnityTempFile-13eee1145b69f26468669c904925164e
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1b5ea059efad52248a70db7ec39f8aca"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1b5ea059efad52248a70db7ec39f8aca"
+    projectPath: Temp\UnityTempFile-1b5ea059efad52248a70db7ec39f8aca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-14d3db1c5733b6642ac28a1056ec2371"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-14d3db1c5733b6642ac28a1056ec2371"
-    projectPath: Temp\UnityTempFile-14d3db1c5733b6642ac28a1056ec2371
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-2275cb4afec65ca45b15fd35c1e61b76"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-2275cb4afec65ca45b15fd35c1e61b76"
+    projectPath: Temp\UnityTempFile-2275cb4afec65ca45b15fd35c1e61b76
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1a0d89f0b8829254e83e157a14e74f03"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1a0d89f0b8829254e83e157a14e74f03"
-    projectPath: Temp\UnityTempFile-1a0d89f0b8829254e83e157a14e74f03
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-289797059db20194ab138170f4569d57"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-289797059db20194ab138170f4569d57"
+    projectPath: Temp\UnityTempFile-289797059db20194ab138170f4569d57
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1b987020e9b20c4459853cbe97ba1ba0"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1b987020e9b20c4459853cbe97ba1ba0"
-    projectPath: Temp\UnityTempFile-1b987020e9b20c4459853cbe97ba1ba0
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-308d9acc44dcfe646a44fefa3ca82735"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-308d9acc44dcfe646a44fefa3ca82735"
+    projectPath: Temp\UnityTempFile-308d9acc44dcfe646a44fefa3ca82735
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1cab92118ffc9aa4dba863a1b3b9bbf9"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1cab92118ffc9aa4dba863a1b3b9bbf9"
-    projectPath: Temp\UnityTempFile-1cab92118ffc9aa4dba863a1b3b9bbf9
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3325b9a8ccde3c64fa7cf1e8232ff642"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3325b9a8ccde3c64fa7cf1e8232ff642"
+    projectPath: Temp\UnityTempFile-3325b9a8ccde3c64fa7cf1e8232ff642
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1efd24fe8e0bc6c4db38a8709e38dcfa"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-1efd24fe8e0bc6c4db38a8709e38dcfa"
-    projectPath: Temp\UnityTempFile-1efd24fe8e0bc6c4db38a8709e38dcfa
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3bdbc9ecdd941e14dabf0dc2b9ac0e3b"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3bdbc9ecdd941e14dabf0dc2b9ac0e3b"
+    projectPath: Temp\UnityTempFile-3bdbc9ecdd941e14dabf0dc2b9ac0e3b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-222735e60fe613e43a3ba73bb39e3b8f"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-222735e60fe613e43a3ba73bb39e3b8f"
-    projectPath: Temp\UnityTempFile-222735e60fe613e43a3ba73bb39e3b8f
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-434498ae2c77c8e4d86bfffaafcfa19d"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-434498ae2c77c8e4d86bfffaafcfa19d"
+    projectPath: Temp\UnityTempFile-434498ae2c77c8e4d86bfffaafcfa19d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3066d2f44b57bfd4ba9e5538c68c8cdc"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3066d2f44b57bfd4ba9e5538c68c8cdc"
-    projectPath: Temp\UnityTempFile-3066d2f44b57bfd4ba9e5538c68c8cdc
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4a2b253ba09107641929b39adad6079f"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4a2b253ba09107641929b39adad6079f"
+    projectPath: Temp\UnityTempFile-4a2b253ba09107641929b39adad6079f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-33e8f6d8745539243ba022e5b7086c42"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-33e8f6d8745539243ba022e5b7086c42"
-    projectPath: Temp\UnityTempFile-33e8f6d8745539243ba022e5b7086c42
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4b23784a7a74c394888aa14ed562b536"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4b23784a7a74c394888aa14ed562b536"
+    projectPath: Temp\UnityTempFile-4b23784a7a74c394888aa14ed562b536
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-39cd389bb2752084aa4f750e402619aa"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-39cd389bb2752084aa4f750e402619aa"
-    projectPath: Temp\UnityTempFile-39cd389bb2752084aa4f750e402619aa
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-549e9bccf8d4cc74590adeae6e8d44a1"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-549e9bccf8d4cc74590adeae6e8d44a1"
+    projectPath: Temp\UnityTempFile-549e9bccf8d4cc74590adeae6e8d44a1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3b3c1f55ecfb2bc498fc8e8cdacc495a"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-3b3c1f55ecfb2bc498fc8e8cdacc495a"
-    projectPath: Temp\UnityTempFile-3b3c1f55ecfb2bc498fc8e8cdacc495a
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-57ae971683014af49bd3d869041f9680"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-57ae971683014af49bd3d869041f9680"
+    projectPath: Temp\UnityTempFile-57ae971683014af49bd3d869041f9680
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-42ead83b8ea0a7d49b1cf6ff35eeeb06"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-42ead83b8ea0a7d49b1cf6ff35eeeb06"
-    projectPath: Temp\UnityTempFile-42ead83b8ea0a7d49b1cf6ff35eeeb06
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-6c84960bf2372ba4c9c0b0efa2f32d50"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-6c84960bf2372ba4c9c0b0efa2f32d50"
+    projectPath: Temp\UnityTempFile-6c84960bf2372ba4c9c0b0efa2f32d50
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-430b803960f112f4cb63eb147e0dcada"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-430b803960f112f4cb63eb147e0dcada"
-    projectPath: Temp\UnityTempFile-430b803960f112f4cb63eb147e0dcada
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-734772a8d471f3b47ad5e9457643299d"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-734772a8d471f3b47ad5e9457643299d"
+    projectPath: Temp\UnityTempFile-734772a8d471f3b47ad5e9457643299d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-43cf471446fdbf344996b94806bb5500"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-43cf471446fdbf344996b94806bb5500"
-    projectPath: Temp\UnityTempFile-43cf471446fdbf344996b94806bb5500
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-79be8a98b597974448b9b49029610f62"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-79be8a98b597974448b9b49029610f62"
+    projectPath: Temp\UnityTempFile-79be8a98b597974448b9b49029610f62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-44da13cd518f6f34bba3e181cf195867"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-44da13cd518f6f34bba3e181cf195867"
-    projectPath: Temp\UnityTempFile-44da13cd518f6f34bba3e181cf195867
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-7ee50c01269700847bb7221d2f83676b"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-7ee50c01269700847bb7221d2f83676b"
+    projectPath: Temp\UnityTempFile-7ee50c01269700847bb7221d2f83676b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4a2e2953069776746a39bd47c525484b"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4a2e2953069776746a39bd47c525484b"
-    projectPath: Temp\UnityTempFile-4a2e2953069776746a39bd47c525484b
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-896d60985c2b249418be7271dd2b75c3"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-896d60985c2b249418be7271dd2b75c3"
+    projectPath: Temp\UnityTempFile-896d60985c2b249418be7271dd2b75c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4d3e0e6125d42e442bf4fa1a1ce3a8ea"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-4d3e0e6125d42e442bf4fa1a1ce3a8ea"
-    projectPath: Temp\UnityTempFile-4d3e0e6125d42e442bf4fa1a1ce3a8ea
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-974d155acc36aef4f8b09aa9d9c11869"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-974d155acc36aef4f8b09aa9d9c11869"
+    projectPath: Temp\UnityTempFile-974d155acc36aef4f8b09aa9d9c11869
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-50282c2156f8b54479a4180ddc1c2ac8"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-50282c2156f8b54479a4180ddc1c2ac8"
-    projectPath: Temp\UnityTempFile-50282c2156f8b54479a4180ddc1c2ac8
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a0ea8203780101144bcae268f84f6ee0"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a0ea8203780101144bcae268f84f6ee0"
+    projectPath: Temp\UnityTempFile-a0ea8203780101144bcae268f84f6ee0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-536c78b988711754c9526576e7992800"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-536c78b988711754c9526576e7992800"
-    projectPath: Temp\UnityTempFile-536c78b988711754c9526576e7992800
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a166d37b825e63f4a9b982703b6a75af"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a166d37b825e63f4a9b982703b6a75af"
+    projectPath: Temp\UnityTempFile-a166d37b825e63f4a9b982703b6a75af
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-55296a2b5cdcd23449ac054bb821f834"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-55296a2b5cdcd23449ac054bb821f834"
-    projectPath: Temp\UnityTempFile-55296a2b5cdcd23449ac054bb821f834
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a2ea59777532b1943b0a20de9dc254c4"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a2ea59777532b1943b0a20de9dc254c4"
+    projectPath: Temp\UnityTempFile-a2ea59777532b1943b0a20de9dc254c4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-56046903f1be30343a44422ac7f84b04"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-56046903f1be30343a44422ac7f84b04"
-    projectPath: Temp\UnityTempFile-56046903f1be30343a44422ac7f84b04
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ae4f75959cf9b33498570415fba24dca"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ae4f75959cf9b33498570415fba24dca"
+    projectPath: Temp\UnityTempFile-ae4f75959cf9b33498570415fba24dca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-58a037aee4390b440ad02adaa831398e"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-58a037aee4390b440ad02adaa831398e"
-    projectPath: Temp\UnityTempFile-58a037aee4390b440ad02adaa831398e
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b00bb0cdfb7286649807e2f122983832"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b00bb0cdfb7286649807e2f122983832"
+    projectPath: Temp\UnityTempFile-b00bb0cdfb7286649807e2f122983832
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-5f2aa8541058aef4fabe23b5382ed069"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-5f2aa8541058aef4fabe23b5382ed069"
-    projectPath: Temp\UnityTempFile-5f2aa8541058aef4fabe23b5382ed069
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b84d29495c098024984f819cf7cde5ba"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b84d29495c098024984f819cf7cde5ba"
+    projectPath: Temp\UnityTempFile-b84d29495c098024984f819cf7cde5ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-61599fc30b4ec6747ba84f481cdd675e"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-61599fc30b4ec6747ba84f481cdd675e"
-    projectPath: Temp\UnityTempFile-61599fc30b4ec6747ba84f481cdd675e
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-bc14b9a769a6f5541835e84195c64df0"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-bc14b9a769a6f5541835e84195c64df0"
+    projectPath: Temp\UnityTempFile-bc14b9a769a6f5541835e84195c64df0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-61b210bddd99fda4db1569f7e4f35981"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-61b210bddd99fda4db1569f7e4f35981"
-    projectPath: Temp\UnityTempFile-61b210bddd99fda4db1569f7e4f35981
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-bf528971530af864baac3176c1cadfb5"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-bf528971530af864baac3176c1cadfb5"
+    projectPath: Temp\UnityTempFile-bf528971530af864baac3176c1cadfb5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-64c4ed732a731924e9207d4cccc4c3f6"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-64c4ed732a731924e9207d4cccc4c3f6"
-    projectPath: Temp\UnityTempFile-64c4ed732a731924e9207d4cccc4c3f6
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c505f8e9400260c41997edc610b1501c"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c505f8e9400260c41997edc610b1501c"
+    projectPath: Temp\UnityTempFile-c505f8e9400260c41997edc610b1501c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-6b8fb7b955a0761499b52891f3825ef7"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-6b8fb7b955a0761499b52891f3825ef7"
-    projectPath: Temp\UnityTempFile-6b8fb7b955a0761499b52891f3825ef7
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ccbf273be638b384bb6e14e0e214367d"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ccbf273be638b384bb6e14e0e214367d"
+    projectPath: Temp\UnityTempFile-ccbf273be638b384bb6e14e0e214367d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-79ab9acda33fd1d42a7b8c690951f082"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-79ab9acda33fd1d42a7b8c690951f082"
-    projectPath: Temp\UnityTempFile-79ab9acda33fd1d42a7b8c690951f082
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d35a0bdb7479cd64aaac265b02438a23"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d35a0bdb7479cd64aaac265b02438a23"
+    projectPath: Temp\UnityTempFile-d35a0bdb7479cd64aaac265b02438a23
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-83ff77618ff4f5440badfc2ecb3070c8"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-83ff77618ff4f5440badfc2ecb3070c8"
-    projectPath: Temp\UnityTempFile-83ff77618ff4f5440badfc2ecb3070c8
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-dc070a1fe489aa44882477f4862ea7b8"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-dc070a1fe489aa44882477f4862ea7b8"
+    projectPath: Temp\UnityTempFile-dc070a1fe489aa44882477f4862ea7b8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-8675cad930f6c35498996bca3a90240a"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-8675cad930f6c35498996bca3a90240a"
-    projectPath: Temp\UnityTempFile-8675cad930f6c35498996bca3a90240a
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-dee001b642a4712458196c0c067be8e9"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-dee001b642a4712458196c0c067be8e9"
+    projectPath: Temp\UnityTempFile-dee001b642a4712458196c0c067be8e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-8c8afee94e11a42489ea2d70d9417624"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-8c8afee94e11a42489ea2d70d9417624"
-    projectPath: Temp\UnityTempFile-8c8afee94e11a42489ea2d70d9417624
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e75ceba44412ce14ca40e99ee22b89b4"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e75ceba44412ce14ca40e99ee22b89b4"
+    projectPath: Temp\UnityTempFile-e75ceba44412ce14ca40e99ee22b89b4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-902cf15f9e4de0e42a0c3e13ae6e48f6"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-902cf15f9e4de0e42a0c3e13ae6e48f6"
-    projectPath: Temp\UnityTempFile-902cf15f9e4de0e42a0c3e13ae6e48f6
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e7bd0a69c4eb9694694ecbd3f43e6eb4"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e7bd0a69c4eb9694694ecbd3f43e6eb4"
+    projectPath: Temp\UnityTempFile-e7bd0a69c4eb9694694ecbd3f43e6eb4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-94258373eedde8c429ef54e2fbd82e11"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-94258373eedde8c429ef54e2fbd82e11"
-    projectPath: Temp\UnityTempFile-94258373eedde8c429ef54e2fbd82e11
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ebe205deb10fa0f4f962e315ebf013cc"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ebe205deb10fa0f4f962e315ebf013cc"
+    projectPath: Temp\UnityTempFile-ebe205deb10fa0f4f962e315ebf013cc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9479a14236aeb2a4fa862ac320f5a161"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9479a14236aeb2a4fa862ac320f5a161"
-    projectPath: Temp\UnityTempFile-9479a14236aeb2a4fa862ac320f5a161
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-edd7fac0d2be2e14387b35a5077eca38"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-edd7fac0d2be2e14387b35a5077eca38"
+    projectPath: Temp\UnityTempFile-edd7fac0d2be2e14387b35a5077eca38
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-94b12281bdd9e7d42babbf4124775915"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-94b12281bdd9e7d42babbf4124775915"
-    projectPath: Temp\UnityTempFile-94b12281bdd9e7d42babbf4124775915
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-eee7f38843a576b4eb283fcb8d0bab06"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-eee7f38843a576b4eb283fcb8d0bab06"
+    projectPath: Temp\UnityTempFile-eee7f38843a576b4eb283fcb8d0bab06
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-96006ca15e0737b4493ecff39c922162"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-96006ca15e0737b4493ecff39c922162"
-    projectPath: Temp\UnityTempFile-96006ca15e0737b4493ecff39c922162
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ef18c87959f26594ea1d20c3dc4b0d7f"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ef18c87959f26594ea1d20c3dc4b0d7f"
+    projectPath: Temp\UnityTempFile-ef18c87959f26594ea1d20c3dc4b0d7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9698c53c0ac648c409bb48f2377ac110"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9698c53c0ac648c409bb48f2377ac110"
-    projectPath: Temp\UnityTempFile-9698c53c0ac648c409bb48f2377ac110
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f399ff0bdffd38840bb185ebec85c070"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f399ff0bdffd38840bb185ebec85c070"
+    projectPath: Temp\UnityTempFile-f399ff0bdffd38840bb185ebec85c070
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-985768947f7b10945b8dfa3e8632a895"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-985768947f7b10945b8dfa3e8632a895"
-    projectPath: Temp\UnityTempFile-985768947f7b10945b8dfa3e8632a895
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f3b70e94b10e96f4f8815e260d68b5d9"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f3b70e94b10e96f4f8815e260d68b5d9"
+    projectPath: Temp\UnityTempFile-f3b70e94b10e96f4f8815e260d68b5d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9d330d820082cf940b7656a942cdb4d0"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-9d330d820082cf940b7656a942cdb4d0"
-    projectPath: Temp\UnityTempFile-9d330d820082cf940b7656a942cdb4d0
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f5434dd61876a6a42b871561b1fdff49"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f5434dd61876a6a42b871561b1fdff49"
+    projectPath: Temp\UnityTempFile-f5434dd61876a6a42b871561b1fdff49
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a06f0585187102f4cab8338fb013a8ec"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a06f0585187102f4cab8338fb013a8ec"
-    projectPath: Temp\UnityTempFile-a06f0585187102f4cab8338fb013a8ec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a0c7e7d0d2a301647a2ec1825bf1cae4"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a0c7e7d0d2a301647a2ec1825bf1cae4"
-    projectPath: Temp\UnityTempFile-a0c7e7d0d2a301647a2ec1825bf1cae4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a39e29f96a3f1624eb6ad8ef6a56ec84"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a39e29f96a3f1624eb6ad8ef6a56ec84"
-    projectPath: Temp\UnityTempFile-a39e29f96a3f1624eb6ad8ef6a56ec84
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a705e588eb80da24b9f6334658f79cca"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-a705e588eb80da24b9f6334658f79cca"
-    projectPath: Temp\UnityTempFile-a705e588eb80da24b9f6334658f79cca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ac76ff8d5985ca843b13307563da9e55"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ac76ff8d5985ca843b13307563da9e55"
-    projectPath: Temp\UnityTempFile-ac76ff8d5985ca843b13307563da9e55
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ae1707b3e7bd90c46b8529c1dde46f29"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ae1707b3e7bd90c46b8529c1dde46f29"
-    projectPath: Temp\UnityTempFile-ae1707b3e7bd90c46b8529c1dde46f29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b79d62f9ff760d64586465cad1ffa719"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-b79d62f9ff760d64586465cad1ffa719"
-    projectPath: Temp\UnityTempFile-b79d62f9ff760d64586465cad1ffa719
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ba03f6be8b7441647b268bad912be4f4"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-ba03f6be8b7441647b268bad912be4f4"
-    projectPath: Temp\UnityTempFile-ba03f6be8b7441647b268bad912be4f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c0dba1d30760e284c8c6799d6929709f"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c0dba1d30760e284c8c6799d6929709f"
-    projectPath: Temp\UnityTempFile-c0dba1d30760e284c8c6799d6929709f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c1f7ed44650fab34799ad57242c17bfe"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c1f7ed44650fab34799ad57242c17bfe"
-    projectPath: Temp\UnityTempFile-c1f7ed44650fab34799ad57242c17bfe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c3bd3465587774a4dbadb10e7025cfab"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c3bd3465587774a4dbadb10e7025cfab"
-    projectPath: Temp\UnityTempFile-c3bd3465587774a4dbadb10e7025cfab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c9708a9fdfd6ebb4b9c0a4ce66f2288a"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-c9708a9fdfd6ebb4b9c0a4ce66f2288a"
-    projectPath: Temp\UnityTempFile-c9708a9fdfd6ebb4b9c0a4ce66f2288a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-cc215e4d485a59542ad3167964625841"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-cc215e4d485a59542ad3167964625841"
-    projectPath: Temp\UnityTempFile-cc215e4d485a59542ad3167964625841
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d0eb2a2d2446ec44ab4f15c57da1277d"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d0eb2a2d2446ec44ab4f15c57da1277d"
-    projectPath: Temp\UnityTempFile-d0eb2a2d2446ec44ab4f15c57da1277d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d16989c220afc9d4a9f4bbb6c73ca338"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d16989c220afc9d4a9f4bbb6c73ca338"
-    projectPath: Temp\UnityTempFile-d16989c220afc9d4a9f4bbb6c73ca338
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d4c71c2470ecb0d4dac7015362d70a8b"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d4c71c2470ecb0d4dac7015362d70a8b"
-    projectPath: Temp\UnityTempFile-d4c71c2470ecb0d4dac7015362d70a8b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d6bf3372d732b404a82128d2f935cd28"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d6bf3372d732b404a82128d2f935cd28"
-    projectPath: Temp\UnityTempFile-d6bf3372d732b404a82128d2f935cd28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d7808f53841ad2d40820f62d46dc7a58"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-d7808f53841ad2d40820f62d46dc7a58"
-    projectPath: Temp\UnityTempFile-d7808f53841ad2d40820f62d46dc7a58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e7dc30441bc8b0d4183452175ab71c63"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-e7dc30441bc8b0d4183452175ab71c63"
-    projectPath: Temp\UnityTempFile-e7dc30441bc8b0d4183452175ab71c63
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-edb247cb963e8644c8bb2a2e7f83cf8d"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-edb247cb963e8644c8bb2a2e7f83cf8d"
-    projectPath: Temp\UnityTempFile-edb247cb963e8644c8bb2a2e7f83cf8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f25effafa6a4298488352c58fbfd9de9"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f25effafa6a4298488352c58fbfd9de9"
-    projectPath: Temp\UnityTempFile-f25effafa6a4298488352c58fbfd9de9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f2f0116452850dc4f86f13bf0024b6e9"
-    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-f2f0116452850dc4f86f13bf0024b6e9"
-    projectPath: Temp\UnityTempFile-f2f0116452850dc4f86f13bf0024b6e9
+  - path: "animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-fbfbde2815824e7429eb322733967551"
+    fullPath: "C:\\Users\\82104\\Documents\\GitHub\\AppleTeam\\animal_jump(\uC5F0\uC2B5\uC6A9)\\Temp\\UnityTempFile-fbfbde2815824e7429eb322733967551"
+    projectPath: Temp\UnityTempFile-fbfbde2815824e7429eb322733967551
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

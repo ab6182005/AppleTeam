@@ -16,7 +16,7 @@ TagManager:
   - 
   - Player
   - Ground
-  - 
+  - eraser
   - 
   - 
   - 
@@ -41,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 750935389
+    locked: 0
+  - name: Player
+    uniqueID: 3677038367
+    locked: 0
+  - name: eraser
+    uniqueID: 1207128927
     locked: 0
