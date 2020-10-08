@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public float checkRadius;
     public LayerMask islayer;
     public bool isGround=false;
+    public bool gameover = false;
     public object player;
     public bool temp;
     int i;
@@ -44,7 +45,12 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Jump();
+       
+    }
 
+    public void Jump()
+    {
         i = randomplatform.i;
         Rigidbody bodys = platformparent.transform.GetChild(i).gameObject.GetComponent<Rigidbody>();
         GameObject ChildGameObject0 = platformparent.transform.GetChild(i + 1).gameObject;
@@ -52,19 +58,21 @@ public class PlayerMovement : MonoBehaviour
         GameObject target = ChildGameObject0.transform.Find("GameObject").gameObject;
         GameObject shortjump = ChildGameObject0.transform.Find("short").gameObject;
         GameObject longjump = ChildGameObject0.transform.Find("long").gameObject;
+        GameObject fall = ChildGameObject0.transform.Find("fall").gameObject;
 
         Vector3 targetspot = target.transform.position;
         Vector3 shortspot = shortjump.transform.position;
         Vector3 longspot = longjump.transform.position;
-        
-       
-        if ((buttonevent.leftclick==true) && (isGround == true))
-        {
-            
+        Vector3 fallspot = fall.transform.position;
 
-            if (randomplatform.randX == 1) 
+
+        if ((buttonevent.leftclick == true) && (isGround == true))
+        {
+
+
+            if (randomplatform.randX == 1)
             {
-               
+
                 transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
                 bodys.useGravity = true;
                 isGround = false;
@@ -74,16 +82,16 @@ public class PlayerMovement : MonoBehaviour
             else
             {
                 transform.position = Vector3.Slerp(shortspot, transform.position, 0.1f);
-                isGround = false;                                                          
+                isGround = false;
             }
 
 
         }
 
-        if ((buttonevent.rightclick==true) && (isGround == true))
+        if ((buttonevent.rightclick == true) && (isGround == true))
         {
 
-            if (randomplatform.randX == 2) 
+            if (randomplatform.randX == 2)
             {
                 transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
                 bodys.useGravity = true;
@@ -94,7 +102,7 @@ public class PlayerMovement : MonoBehaviour
 
             else
             {
-                
+
                 transform.position = Vector3.Slerp(longspot, transform.position, 0.1f);
                 isGround = false;
 
@@ -102,17 +110,30 @@ public class PlayerMovement : MonoBehaviour
 
 
         }
+
+        if (transform.position.y < fallspot.y == true)
+        {
+            gameover = true;
+            Debug.Log("GAMEOVER");
+        }
+
     }
 
 
 
 
-        public void OnCollisionEnter(Collision collision)
+    public void OnCollisionEnter(Collision collision)
         {
             Collider other = collision.collider;
             if (other.CompareTag("Ground"))
             {
                 isGround = true;
+            }
+
+            if (other.CompareTag("eraser"))
+            {
+                gameover = true;
+                Debug.Log("GAMEOVER");
             }
                       
         }
