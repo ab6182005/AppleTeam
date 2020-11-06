@@ -66,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 fallspot = fall.transform.position;
 
 
-        if ((buttonevent.leftclick == true) && (isGround == true))
+        if (((buttonevent.leftclick == true)||(Input.GetKeyDown(KeyCode.A)))&& (isGround == true))
         {
 
 
@@ -88,7 +88,7 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        if ((buttonevent.rightclick == true) && (isGround == true))
+        if (((buttonevent.rightclick == true) || (Input.GetKeyDown(KeyCode.D)))&& (isGround == true))
         {
 
             if (randomplatform.randX == 2)

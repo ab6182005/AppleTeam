@@ -17,6 +17,7 @@ public class randomPlatform : MonoBehaviour
     float secondX;
     public int i = 0;
     float randomX;
+    public bool cam_start;
 
     public int randX;
 
@@ -124,9 +125,9 @@ public class randomPlatform : MonoBehaviour
     public void makePlatform()
     {
 
-        if ((Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1)))
+        if ((Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))|| ((Input.GetKeyUp(KeyCode.A)) || (Input.GetKeyUp(KeyCode.D))))
         {
-
+            cam_start = true;
             int whatToSpawn = Random.Range(1, 5);
             randX = Random.Range(1, 3);
 
