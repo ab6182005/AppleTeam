@@ -10,6 +10,7 @@ public class ButtonEvent : MonoBehaviour
     PlayerMovement playermovement;
     public bool leftclick;
     public bool rightclick;
+    public bool Click = false;
 
     // Start is called before the first frame update
     void Start()
@@ -23,33 +24,37 @@ public class ButtonEvent : MonoBehaviour
     void Update()
     {
         //isGround = Physics2D.OverlapCircle(pos.position, checkRadius, islayer);
+        Click = false;
     }
 
     public void LeftButtonDown()
     {
+        Click = false;
         leftclick = true;
         playermovement.jump = true;
-
     }
     
     public void LeftButtonUp()
     {
+        Click = true;
         leftclick = false;
         playermovement.jump = false;
     }
-   
+
 
     public void RightButtonDown()
     {
+        Click = false;
         rightclick = true;
         playermovement.doublejump = true;
     }
-    
+
     public void RightButtonUp()
     {
+        Click = true;
         rightclick = false;
         playermovement.doublejump = false;
     }
-   
+
 }
 

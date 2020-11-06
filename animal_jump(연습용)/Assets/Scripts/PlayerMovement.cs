@@ -12,13 +12,13 @@ public class PlayerMovement : MonoBehaviour
     public Transform Target;
     public float checkRadius;
     public LayerMask islayer;
-    public bool isGround=false;
+    public bool isGround = false;
     public bool gameover = false;
     public object player;
     public bool temp;
     int i;
     int randX;
-    
+
 
     GameObject platformparent;
     randomPlatform randomplatform;
@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Jump();
-       
+
     }
 
     public void Jump()
@@ -65,10 +65,10 @@ public class PlayerMovement : MonoBehaviour
         Vector3 longspot = longjump.transform.position;
         Vector3 fallspot = fall.transform.position;
 
+ 
 
-        if (((buttonevent.leftclick == true)||(Input.GetKeyDown(KeyCode.A)))&& (isGround == true))
+        if (((buttonevent.leftclick == true) || (Input.GetKeyDown(KeyCode.A))) && (isGround == true))
         {
-
 
             if (randomplatform.randX == 1)
             {
@@ -88,7 +88,7 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        if (((buttonevent.rightclick == true) || (Input.GetKeyDown(KeyCode.D)))&& (isGround == true))
+        if (((buttonevent.rightclick == true) || (Input.GetKeyDown(KeyCode.D))) && (isGround == true))
         {
 
             if (randomplatform.randX == 2)
@@ -110,36 +110,33 @@ public class PlayerMovement : MonoBehaviour
 
 
         }
-
+        
         if (transform.position.y < fallspot.y == true)
         {
             gameover = true;
             Debug.Log("GAMEOVER");
         }
-
+        
     }
 
 
 
 
     public void OnCollisionEnter(Collision collision)
+    {
+        Collider other = collision.collider;
+        if (other.CompareTag("Ground"))
         {
-            Collider other = collision.collider;
-            if (other.CompareTag("Ground"))
-            {
-                isGround = true;
-            }
-
-            if (other.CompareTag("eraser"))
-            {
-                gameover = true;
-                Debug.Log("GAMEOVER");
-            }
-                      
+            isGround = true;
         }
-
-   
+        
+        if (other.CompareTag("eraser"))
+        {
+            gameover = true;
+            Debug.Log("GAMEOVER");
+        }
+        
     }
 
 
-
+}

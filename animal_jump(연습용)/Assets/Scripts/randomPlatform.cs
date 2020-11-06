@@ -88,7 +88,7 @@ public class randomPlatform : MonoBehaviour
         if (randX == 1)
         {
             randomX = 1.5f;
-           
+
         }
         else
         {
@@ -119,13 +119,14 @@ public class randomPlatform : MonoBehaviour
                 break;
         }
 
+
         return -2 + randomX;
     }
 
     public void makePlatform()
     {
 
-        if ((Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))|| ((Input.GetKeyUp(KeyCode.A)) || (Input.GetKeyUp(KeyCode.D))))
+        if ((buttonevent.Click == true) || (Input.GetKeyUp(KeyCode.A)) || (Input.GetKeyUp(KeyCode.D)))
         {
             cam_start = true;
             int whatToSpawn = Random.Range(1, 5);
@@ -141,11 +142,11 @@ public class randomPlatform : MonoBehaviour
             else
             {
                 randomX = 3;
-                
+
             }
 
             scoremanager.setScore(1);
-           
+
             switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
             {
                 case 1:
@@ -169,15 +170,15 @@ public class randomPlatform : MonoBehaviour
                     platforms.Add(clone4);
                     break;
             }
-        X += randomX;
-        Y += 1f;
+            X += randomX;
+            Y += 1f;
 
-        bodys = transform.GetChild(i).GetComponent<Rigidbody>();
-        bodys.isKinematic = false;
-            
-        i++;
+            bodys = transform.GetChild(i).GetComponent<Rigidbody>();
+            bodys.isKinematic = false;
+
+            i++;
+        }
+        //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
+
     }
-    //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
-
-}
 }
