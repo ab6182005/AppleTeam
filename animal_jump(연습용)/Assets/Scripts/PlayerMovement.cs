@@ -76,7 +76,7 @@ public class PlayerMovement : MonoBehaviour
                 transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
                 bodys.useGravity = true;
                 isGround = false;
-
+                
             }
 
             else
