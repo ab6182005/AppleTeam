@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
 
     GameObject platformparent;
+    GameObject coinparent;
     randomPlatform randomplatform;
 
 
@@ -28,6 +29,10 @@ public class PlayerMovement : MonoBehaviour
     ButtonEvent buttonevent;
 
 
+    GameObject score;
+    GameObject coinScore;
+    ScoreManager scoremanager;
+    CoinManager coinmanager;
 
 
     // Start is called before the first frame update
@@ -39,6 +44,14 @@ public class PlayerMovement : MonoBehaviour
         button = GameObject.Find("Button");
         buttonevent = button.GetComponent<ButtonEvent>();
 
+        coinparent = GameObject.Find("CoinParent");
+
+        score = GameObject.Find("Manager");
+        scoremanager = score.GetComponent<ScoreManager>();
+
+        coinScore = GameObject.Find("Manager");
+        coinmanager = coinScore.GetComponent<CoinManager>();
+
         // myrigidbody = GetComponent<Rigidbody2D>();
     }
 
@@ -46,7 +59,6 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Jump();
-
     }
 
     public void Jump()
@@ -65,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 longspot = longjump.transform.position;
         Vector3 fallspot = fall.transform.position;
 
+        GameObject CoinChild = coinparent.transform.GetChild(0).gameObject;
  
 
         if (((buttonevent.leftclick == true) || (Input.GetKeyDown(KeyCode.A))) && (isGround == true))
@@ -76,7 +89,11 @@ public class PlayerMovement : MonoBehaviour
                 transform.position = Vector3.Slerp(targetspot, transform.position, 0.1f);
                 bodys.useGravity = true;
                 isGround = false;
-                
+
+                scoremanager.setScore(1);
+                coinmanager.setCoin(1);
+
+                Destroy(CoinChild);
             }
 
             else
@@ -97,6 +114,10 @@ public class PlayerMovement : MonoBehaviour
                 bodys.useGravity = true;
                 isGround = false;
 
+                scoremanager.setScore(1);
+                coinmanager.setCoin(1);
+
+                Destroy(CoinChild);
             }
 
 

@@ -7,6 +7,9 @@ public class randomPlatform : MonoBehaviour
     [SerializeField] private List<GameObject> platforms;
     [SerializeField] private GameObject platforms_parent;
 
+    [SerializeField] private List<GameObject> coins;
+    [SerializeField] private GameObject coins_parent;
+
     [SerializeField] private GameObject cube1;
     [SerializeField] private GameObject cube2;
     [SerializeField] private GameObject cube3;
@@ -26,9 +29,11 @@ public class randomPlatform : MonoBehaviour
     GameObject Player;
     GameObject button;
     GameObject score;
+    GameObject coinScore;
     PlayerMovement playermovement;
     ButtonEvent buttonevent;
     ScoreManager scoremanager;
+    CoinManager coinmanager;
 
 
     public void Start()
@@ -43,9 +48,13 @@ public class randomPlatform : MonoBehaviour
         button = GameObject.Find("Button");
         buttonevent = button.GetComponent<ButtonEvent>();
 
+        /*
         score = GameObject.Find("Manager");
         scoremanager = score.GetComponent<ScoreManager>();
 
+        coinScore = GameObject.Find("Manager");
+        coinmanager = coinScore.GetComponent<CoinManager>();
+        */
 
         int whatToSpawn = Random.Range(1, 5);
 
@@ -103,24 +112,32 @@ public class randomPlatform : MonoBehaviour
                 clone.transform.parent = platforms_parent.transform;
                 platforms.Add(clone);
                 GameObject Coin = Instantiate(coin, new Vector3(-2 + randomX, -9 + 8, 0f), Quaternion.identity);
+                Coin.transform.parent = coins_parent.transform;
+                coins.Add(Coin);
                 break;
             case 2:
                 GameObject clone2 = Instantiate(cube2, new Vector3(-2 + randomX, -9, 0f), Quaternion.identity);
                 clone2.transform.parent = platforms_parent.transform;
                 platforms.Add(clone2);
                 GameObject Coin2 = Instantiate(coin, new Vector3(-2 + randomX, -9 + 8, 0f), Quaternion.identity);
+                Coin2.transform.parent = coins_parent.transform;
+                coins.Add(Coin2);
                 break;
             case 3:
                 GameObject clone3 = Instantiate(cube3, new Vector3(-2 + randomX, -9, 0f), Quaternion.identity);
                 clone3.transform.parent = platforms_parent.transform;
                 platforms.Add(clone3);
                 GameObject Coin3 = Instantiate(coin, new Vector3(-2 + randomX, -9 + 8, 0f), Quaternion.identity);
+                Coin3.transform.parent = coins_parent.transform;
+                coins.Add(Coin3);
                 break;
             case 4:
                 GameObject clone4 = Instantiate(cube4, new Vector3(-2 + randomX, -9, 0f), Quaternion.identity);
                 clone4.transform.parent = platforms_parent.transform;
                 platforms.Add(clone4);
                 GameObject Coin4 = Instantiate(coin, new Vector3(-2 + randomX, -9 + 8, 0f), Quaternion.identity);
+                Coin4.transform.parent = coins_parent.transform;
+                coins.Add(Coin4);
                 break;
         }
 
@@ -150,7 +167,10 @@ public class randomPlatform : MonoBehaviour
 
             }
 
+            /*
             scoremanager.setScore(1);
+            coinmanager.setCoin(1);
+            */
 
             switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
             {
@@ -159,24 +179,32 @@ public class randomPlatform : MonoBehaviour
                     clone.transform.parent = platforms_parent.transform;
                     platforms.Add(clone);
                     GameObject Coin = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                    Coin.transform.parent = coins_parent.transform;
+                    coins.Add(Coin);
                     break;
                 case 2:
                     GameObject clone2 = Instantiate(cube2, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
                     clone2.transform.parent = platforms_parent.transform;
                     platforms.Add(clone2);
                     GameObject Coin2 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                    Coin2.transform.parent = coins_parent.transform;
+                    coins.Add(Coin2);
                     break;
                 case 3:
                     GameObject clone3 = Instantiate(cube3, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
                     clone3.transform.parent = platforms_parent.transform;
                     platforms.Add(clone3);
                     GameObject Coin3 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                    Coin3.transform.parent = coins_parent.transform;
+                    coins.Add(Coin3);
                     break;
                 case 4:
                     GameObject clone4 = Instantiate(cube4, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
                     clone4.transform.parent = platforms_parent.transform;
                     platforms.Add(clone4);
                     GameObject Coin4 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                    Coin4.transform.parent = coins_parent.transform;
+                    coins.Add(Coin4);
                     break;
             }
             X += randomX;
