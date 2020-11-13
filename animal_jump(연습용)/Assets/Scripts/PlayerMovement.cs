@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public Transform Target;
     public float checkRadius;
     public LayerMask islayer;
-    public bool isGround = false;
+    public bool isGround = true;
     public bool gameover = false;
     public object player;
     public bool temp;

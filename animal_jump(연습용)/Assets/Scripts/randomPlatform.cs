@@ -147,75 +147,85 @@ public class randomPlatform : MonoBehaviour
 
     public void makePlatform()
     {
+        bool make=true;
 
         if ((buttonevent.Click == true) || (Input.GetKeyUp(KeyCode.A)) || (Input.GetKeyUp(KeyCode.D)))
         {
-            cam_start = true;
-            int whatToSpawn = Random.Range(1, 5);
-            randX = Random.Range(1, 3);
 
-
-
-            if (randX == 1)
-            {
-                randomX = 1.5f;
-
+            if ((randX == 1) && (Input.GetKeyUp(KeyCode.D))){
+                make = false;
             }
-            else
+            
+
+            if (make==true)
             {
-                randomX = 3;
+                cam_start = true;
+                int whatToSpawn = Random.Range(1, 5);
+                randX = Random.Range(1, 3);
 
+                if (randX == 1)
+                {
+                    randomX = 1.5f;
+
+                }
+                else
+                {
+                    randomX = 3;
+
+                }
+
+                /*
+                scoremanager.setScore(1);
+                coinmanager.setCoin(1);
+                */
+
+                switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
+                {
+                    case 1:
+                        GameObject clone = Instantiate(cube1, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
+                        clone.transform.parent = platforms_parent.transform;
+                        platforms.Add(clone);
+                        GameObject Coin = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                        Coin.transform.parent = coins_parent.transform;
+                        coins.Add(Coin);
+                        break;
+                    case 2:
+                        GameObject clone2 = Instantiate(cube2, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
+                        clone2.transform.parent = platforms_parent.transform;
+                        platforms.Add(clone2);
+                        GameObject Coin2 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                        Coin2.transform.parent = coins_parent.transform;
+                        coins.Add(Coin2);
+                        break;
+                    case 3:
+                        GameObject clone3 = Instantiate(cube3, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
+                        clone3.transform.parent = platforms_parent.transform;
+                        platforms.Add(clone3);
+                        GameObject Coin3 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                        Coin3.transform.parent = coins_parent.transform;
+                        coins.Add(Coin3);
+                        break;
+                    case 4:
+                        GameObject clone4 = Instantiate(cube4, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
+                        clone4.transform.parent = platforms_parent.transform;
+                        platforms.Add(clone4);
+                        GameObject Coin4 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
+                        Coin4.transform.parent = coins_parent.transform;
+                        coins.Add(Coin4);
+                        break;
+                }
+                X += randomX;
+                Y += 1f;
+
+                bodys = transform.GetChild(i).GetComponent<Rigidbody>();
+                bodys.isKinematic = false;
+
+                i++;
             }
-
-            /*
-            scoremanager.setScore(1);
-            coinmanager.setCoin(1);
-            */
-
-            switch (whatToSpawn)     // 플랫폼 개수만큼 만들어주기
-            {
-                case 1:
-                    GameObject clone = Instantiate(cube1, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
-                    clone.transform.parent = platforms_parent.transform;
-                    platforms.Add(clone);
-                    GameObject Coin = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
-                    Coin.transform.parent = coins_parent.transform;
-                    coins.Add(Coin);
-                    break;
-                case 2:
-                    GameObject clone2 = Instantiate(cube2, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
-                    clone2.transform.parent = platforms_parent.transform;
-                    platforms.Add(clone2);
-                    GameObject Coin2 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
-                    Coin2.transform.parent = coins_parent.transform;
-                    coins.Add(Coin2);
-                    break;
-                case 3:
-                    GameObject clone3 = Instantiate(cube3, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
-                    clone3.transform.parent = platforms_parent.transform;
-                    platforms.Add(clone3);
-                    GameObject Coin3 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
-                    Coin3.transform.parent = coins_parent.transform;
-                    coins.Add(Coin3);
-                    break;
-                case 4:
-                    GameObject clone4 = Instantiate(cube4, new Vector3(randomX + secondX + X, -8 + Y, 0), Quaternion.identity);
-                    clone4.transform.parent = platforms_parent.transform;
-                    platforms.Add(clone4);
-                    GameObject Coin4 = Instantiate(coin, new Vector3(randomX + secondX + X, -8 + Y + 8, 0f), Quaternion.identity);
-                    Coin4.transform.parent = coins_parent.transform;
-                    coins.Add(Coin4);
-                    break;
-            }
-            X += randomX;
-            Y += 1f;
-
-            bodys = transform.GetChild(i).GetComponent<Rigidbody>();
-            bodys.isKinematic = false;
-
-            i++;
         }
-        //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
 
+            
+        //(Input.GetMouseButtonUp(0) || Input.GetMouseButtonUp(1))
+      
     }
 }
