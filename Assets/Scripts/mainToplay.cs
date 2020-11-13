@@ -7,6 +7,6 @@ public class mainToplay : MonoBehaviour
 {
     public void mainPlay()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("SampleScene");
     }
 }
